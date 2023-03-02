@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<catalog>
+	<book id="1">
+		<author>Gambardella, Matthew</author>
+		<title>XML Developer's Guide</title>
+	</book>
+	<book id="2">
+		<author>Ralls, Kim</author>
+		<title>Midnight Rain</title>
+	</book>
+	<book id="3">
+		<author>Corets, Eva</author>
+		<title>Maeve Ascendant</title>
+	</book>
+</catalog>

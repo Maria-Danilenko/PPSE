@@ -1,0 +1,27 @@
+﻿@page
+@model OrderIndex
+@{
+    ViewData["Title"] = "Orders";
+}
+
+<h1>Orders</h1>
+ 
+<table class="table">
+    <thead>
+        <tr>
+            <th>Id</th>
+            <th>User address</th>
+            <th>Price</th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var order in Model.Orders)
+        {
+            <tr>
+                <td>@order.Id</td>
+                <td>@order.UserAddress</td>
+                <td>@order.Price</td>
+            </tr>
+        }
+    </tbody>
+</table>

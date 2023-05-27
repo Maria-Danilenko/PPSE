@@ -1,0 +1,21 @@
+version: '3'
+
+services:
+  webapplication4:
+    container_name: webapplication4
+    restart: always
+    networks:
+      - mynetwork
+    image: webapplication4:latest
+
+  mydb:
+    container_name: mydb
+    restart: always
+    networks:
+      - mynetwork
+    image: webapplication4:latest
+    environment:
+      - MYSQL_ALLOW_EMPTY_PASSWORD=yes
+
+networks:
+  mynetwork:

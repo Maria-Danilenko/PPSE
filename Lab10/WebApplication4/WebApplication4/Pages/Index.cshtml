@@ -1,0 +1,27 @@
+﻿@page
+@model PizzaIndex
+@{
+    ViewData["Title"] = "Index";
+}
+
+<h1>Menu</h1>
+
+<table class="table">
+    <thead>
+        <tr>
+            <th>Name</th>
+            <th>Price</th>
+            <th>Description</th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var pizza in Model.Pizzas)
+        {
+            <tr>
+                <td>@pizza.Name</td>
+                <td>@pizza.Price</td>
+                <td>@pizza.Description</td>
+            </tr>
+        }
+    </tbody>
+</table>

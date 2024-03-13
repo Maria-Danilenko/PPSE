@@ -1,0 +1,173 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\%UNIVER\\\u0420\u0435\u0456\u043D\u0436\u0438\u043D\u0456\u0440\u0438\u043D\u0433 \u043F\u0440\u043E\u0433\u0440\u0430\u043C\u043D\u043E\u0433\u043E \u0437\u0430\u0431\u0435\u0437\u043F\u0435\u0447\u0435\u043D\u043D\u044F\\WebApplication4\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{64609B2B-9284-4B08-B569-F029E9DE3B99}|WebApplication4\\WebApplication4.csproj|d:\\%univer\\\u0440\u0435\u0456\u043D\u0436\u0438\u043D\u0456\u0440\u0438\u043D\u0433 \u043F\u0440\u043E\u0433\u0440\u0430\u043C\u043D\u043E\u0433\u043E \u0437\u0430\u0431\u0435\u0437\u043F\u0435\u0447\u0435\u043D\u043D\u044F\\webapplication4\\webapplication4\\services\\itokenservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{64609B2B-9284-4B08-B569-F029E9DE3B99}|WebApplication4\\WebApplication4.csproj|solutionrelative:webapplication4\\services\\itokenservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{64609B2B-9284-4B08-B569-F029E9DE3B99}|WebApplication4\\WebApplication4.csproj|d:\\%univer\\\u0440\u0435\u0456\u043D\u0436\u0438\u043D\u0456\u0440\u0438\u043D\u0433 \u043F\u0440\u043E\u0433\u0440\u0430\u043C\u043D\u043E\u0433\u043E \u0437\u0430\u0431\u0435\u0437\u043F\u0435\u0447\u0435\u043D\u043D\u044F\\webapplication4\\webapplication4\\services\\iuserauthservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{64609B2B-9284-4B08-B569-F029E9DE3B99}|WebApplication4\\WebApplication4.csproj|solutionrelative:webapplication4\\services\\iuserauthservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{64609B2B-9284-4B08-B569-F029E9DE3B99}|WebApplication4\\WebApplication4.csproj|d:\\%univer\\\u0440\u0435\u0456\u043D\u0436\u0438\u043D\u0456\u0440\u0438\u043D\u0433 \u043F\u0440\u043E\u0433\u0440\u0430\u043C\u043D\u043E\u0433\u043E \u0437\u0430\u0431\u0435\u0437\u043F\u0435\u0447\u0435\u043D\u043D\u044F\\webapplication4\\webapplication4\\services\\encryptionservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{64609B2B-9284-4B08-B569-F029E9DE3B99}|WebApplication4\\WebApplication4.csproj|solutionrelative:webapplication4\\services\\encryptionservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{64609B2B-9284-4B08-B569-F029E9DE3B99}|WebApplication4\\WebApplication4.csproj|d:\\%univer\\\u0440\u0435\u0456\u043D\u0436\u0438\u043D\u0456\u0440\u0438\u043D\u0433 \u043F\u0440\u043E\u0433\u0440\u0430\u043C\u043D\u043E\u0433\u043E \u0437\u0430\u0431\u0435\u0437\u043F\u0435\u0447\u0435\u043D\u043D\u044F\\webapplication4\\webapplication4\\services\\ipizzaservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{64609B2B-9284-4B08-B569-F029E9DE3B99}|WebApplication4\\WebApplication4.csproj|solutionrelative:webapplication4\\services\\ipizzaservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{64609B2B-9284-4B08-B569-F029E9DE3B99}|WebApplication4\\WebApplication4.csproj|d:\\%univer\\\u0440\u0435\u0456\u043D\u0436\u0438\u043D\u0456\u0440\u0438\u043D\u0433 \u043F\u0440\u043E\u0433\u0440\u0430\u043C\u043D\u043E\u0433\u043E \u0437\u0430\u0431\u0435\u0437\u043F\u0435\u0447\u0435\u043D\u043D\u044F\\webapplication4\\webapplication4\\controllers\\pizzascontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{64609B2B-9284-4B08-B569-F029E9DE3B99}|WebApplication4\\WebApplication4.csproj|solutionrelative:webapplication4\\controllers\\pizzascontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{64609B2B-9284-4B08-B569-F029E9DE3B99}|WebApplication4\\WebApplication4.csproj|d:\\%univer\\\u0440\u0435\u0456\u043D\u0436\u0438\u043D\u0456\u0440\u0438\u043D\u0433 \u043F\u0440\u043E\u0433\u0440\u0430\u043C\u043D\u043E\u0433\u043E \u0437\u0430\u0431\u0435\u0437\u043F\u0435\u0447\u0435\u043D\u043D\u044F\\webapplication4\\webapplication4\\services\\iorderservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{64609B2B-9284-4B08-B569-F029E9DE3B99}|WebApplication4\\WebApplication4.csproj|solutionrelative:webapplication4\\services\\iorderservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{64609B2B-9284-4B08-B569-F029E9DE3B99}|WebApplication4\\WebApplication4.csproj|d:\\%univer\\\u0440\u0435\u0456\u043D\u0436\u0438\u043D\u0456\u0440\u0438\u043D\u0433 \u043F\u0440\u043E\u0433\u0440\u0430\u043C\u043D\u043E\u0433\u043E \u0437\u0430\u0431\u0435\u0437\u043F\u0435\u0447\u0435\u043D\u043D\u044F\\webapplication4\\webapplication4\\controllers\\orderscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{64609B2B-9284-4B08-B569-F029E9DE3B99}|WebApplication4\\WebApplication4.csproj|solutionrelative:webapplication4\\controllers\\orderscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{64609B2B-9284-4B08-B569-F029E9DE3B99}|WebApplication4\\WebApplication4.csproj|d:\\%univer\\\u0440\u0435\u0456\u043D\u0436\u0438\u043D\u0456\u0440\u0438\u043D\u0433 \u043F\u0440\u043E\u0433\u0440\u0430\u043C\u043D\u043E\u0433\u043E \u0437\u0430\u0431\u0435\u0437\u043F\u0435\u0447\u0435\u043D\u043D\u044F\\webapplication4\\webapplication4\\controllers\\userauthcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{64609B2B-9284-4B08-B569-F029E9DE3B99}|WebApplication4\\WebApplication4.csproj|solutionrelative:webapplication4\\controllers\\userauthcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{64609B2B-9284-4B08-B569-F029E9DE3B99}|WebApplication4\\WebApplication4.csproj|d:\\%univer\\\u0440\u0435\u0456\u043D\u0436\u0438\u043D\u0456\u0440\u0438\u043D\u0433 \u043F\u0440\u043E\u0433\u0440\u0430\u043C\u043D\u043E\u0433\u043E \u0437\u0430\u0431\u0435\u0437\u043F\u0435\u0447\u0435\u043D\u043D\u044F\\webapplication4\\webapplication4\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{64609B2B-9284-4B08-B569-F029E9DE3B99}|WebApplication4\\WebApplication4.csproj|solutionrelative:webapplication4\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\%UNIVER\\\u0420\u0435\u0456\u043D\u0436\u0438\u043D\u0456\u0440\u0438\u043D\u0433 \u043F\u0440\u043E\u0433\u0440\u0430\u043C\u043D\u043E\u0433\u043E \u0437\u0430\u0431\u0435\u0437\u043F\u0435\u0447\u0435\u043D\u043D\u044F\\WebApplication4\\WebApplication4\\Program.cs",
+              "RelativeDocumentMoniker": "WebApplication4\\Program.cs",
+              "ToolTip": "D:\\%UNIVER\\\u0420\u0435\u0456\u043D\u0436\u0438\u043D\u0456\u0440\u0438\u043D\u0433 \u043F\u0440\u043E\u0433\u0440\u0430\u043C\u043D\u043E\u0433\u043E \u0437\u0430\u0431\u0435\u0437\u043F\u0435\u0447\u0435\u043D\u043D\u044F\\WebApplication4\\WebApplication4\\Program.cs",
+              "RelativeToolTip": "WebApplication4\\Program.cs",
+              "ViewState": "AQIAABwAAAAAAAAAAAA5wC4AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-13T07:58:30.114Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "EncryptionService.cs",
+              "DocumentMoniker": "D:\\%UNIVER\\\u0420\u0435\u0456\u043D\u0436\u0438\u043D\u0456\u0440\u0438\u043D\u0433 \u043F\u0440\u043E\u0433\u0440\u0430\u043C\u043D\u043E\u0433\u043E \u0437\u0430\u0431\u0435\u0437\u043F\u0435\u0447\u0435\u043D\u043D\u044F\\WebApplication4\\WebApplication4\\Services\\EncryptionService.cs",
+              "RelativeDocumentMoniker": "WebApplication4\\Services\\EncryptionService.cs",
+              "ToolTip": "D:\\%UNIVER\\\u0420\u0435\u0456\u043D\u0436\u0438\u043D\u0456\u0440\u0438\u043D\u0433 \u043F\u0440\u043E\u0433\u0440\u0430\u043C\u043D\u043E\u0433\u043E \u0437\u0430\u0431\u0435\u0437\u043F\u0435\u0447\u0435\u043D\u043D\u044F\\WebApplication4\\WebApplication4\\Services\\EncryptionService.cs",
+              "RelativeToolTip": "WebApplication4\\Services\\EncryptionService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABQAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-13T07:22:55.865Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "IUserAuthService.cs",
+              "DocumentMoniker": "D:\\%UNIVER\\\u0420\u0435\u0456\u043D\u0436\u0438\u043D\u0456\u0440\u0438\u043D\u0433 \u043F\u0440\u043E\u0433\u0440\u0430\u043C\u043D\u043E\u0433\u043E \u0437\u0430\u0431\u0435\u0437\u043F\u0435\u0447\u0435\u043D\u043D\u044F\\WebApplication4\\WebApplication4\\Services\\IUserAuthService.cs",
+              "RelativeDocumentMoniker": "WebApplication4\\Services\\IUserAuthService.cs",
+              "ToolTip": "D:\\%UNIVER\\\u0420\u0435\u0456\u043D\u0436\u0438\u043D\u0456\u0440\u0438\u043D\u0433 \u043F\u0440\u043E\u0433\u0440\u0430\u043C\u043D\u043E\u0433\u043E \u0437\u0430\u0431\u0435\u0437\u043F\u0435\u0447\u0435\u043D\u043D\u044F\\WebApplication4\\WebApplication4\\Services\\IUserAuthService.cs",
+              "RelativeToolTip": "WebApplication4\\Services\\IUserAuthService.cs",
+              "ViewState": "AQIAADEAAAAAAAAAAAAqwEQAAAAYAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-12T12:08:29.043Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ITokenService.cs",
+              "DocumentMoniker": "D:\\%UNIVER\\\u0420\u0435\u0456\u043D\u0436\u0438\u043D\u0456\u0440\u0438\u043D\u0433 \u043F\u0440\u043E\u0433\u0440\u0430\u043C\u043D\u043E\u0433\u043E \u0437\u0430\u0431\u0435\u0437\u043F\u0435\u0447\u0435\u043D\u043D\u044F\\WebApplication4\\WebApplication4\\Services\\ITokenService.cs",
+              "RelativeDocumentMoniker": "WebApplication4\\Services\\ITokenService.cs",
+              "ToolTip": "D:\\%UNIVER\\\u0420\u0435\u0456\u043D\u0436\u0438\u043D\u0456\u0440\u0438\u043D\u0433 \u043F\u0440\u043E\u0433\u0440\u0430\u043C\u043D\u043E\u0433\u043E \u0437\u0430\u0431\u0435\u0437\u043F\u0435\u0447\u0435\u043D\u043D\u044F\\WebApplication4\\WebApplication4\\Services\\ITokenService.cs",
+              "RelativeToolTip": "WebApplication4\\Services\\ITokenService.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAABYAAAA4AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-12T13:23:51.368Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "UserAuthController.cs",
+              "DocumentMoniker": "D:\\%UNIVER\\\u0420\u0435\u0456\u043D\u0436\u0438\u043D\u0456\u0440\u0438\u043D\u0433 \u043F\u0440\u043E\u0433\u0440\u0430\u043C\u043D\u043E\u0433\u043E \u0437\u0430\u0431\u0435\u0437\u043F\u0435\u0447\u0435\u043D\u043D\u044F\\WebApplication4\\WebApplication4\\Controllers\\UserAuthController.cs",
+              "RelativeDocumentMoniker": "WebApplication4\\Controllers\\UserAuthController.cs",
+              "ToolTip": "D:\\%UNIVER\\\u0420\u0435\u0456\u043D\u0436\u0438\u043D\u0456\u0440\u0438\u043D\u0433 \u043F\u0440\u043E\u0433\u0440\u0430\u043C\u043D\u043E\u0433\u043E \u0437\u0430\u0431\u0435\u0437\u043F\u0435\u0447\u0435\u043D\u043D\u044F\\WebApplication4\\WebApplication4\\Controllers\\UserAuthController.cs",
+              "RelativeToolTip": "WebApplication4\\Controllers\\UserAuthController.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAABMAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-12T12:26:42.344Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "OrdersController.cs",
+              "DocumentMoniker": "D:\\%UNIVER\\\u0420\u0435\u0456\u043D\u0436\u0438\u043D\u0456\u0440\u0438\u043D\u0433 \u043F\u0440\u043E\u0433\u0440\u0430\u043C\u043D\u043E\u0433\u043E \u0437\u0430\u0431\u0435\u0437\u043F\u0435\u0447\u0435\u043D\u043D\u044F\\WebApplication4\\WebApplication4\\Controllers\\OrdersController.cs",
+              "RelativeDocumentMoniker": "WebApplication4\\Controllers\\OrdersController.cs",
+              "ToolTip": "D:\\%UNIVER\\\u0420\u0435\u0456\u043D\u0436\u0438\u043D\u0456\u0440\u0438\u043D\u0433 \u043F\u0440\u043E\u0433\u0440\u0430\u043C\u043D\u043E\u0433\u043E \u0437\u0430\u0431\u0435\u0437\u043F\u0435\u0447\u0435\u043D\u043D\u044F\\WebApplication4\\WebApplication4\\Controllers\\OrdersController.cs",
+              "RelativeToolTip": "WebApplication4\\Controllers\\OrdersController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-12T10:37:40.241Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "IOrderService.cs",
+              "DocumentMoniker": "D:\\%UNIVER\\\u0420\u0435\u0456\u043D\u0436\u0438\u043D\u0456\u0440\u0438\u043D\u0433 \u043F\u0440\u043E\u0433\u0440\u0430\u043C\u043D\u043E\u0433\u043E \u0437\u0430\u0431\u0435\u0437\u043F\u0435\u0447\u0435\u043D\u043D\u044F\\WebApplication4\\WebApplication4\\Services\\IOrderService.cs",
+              "RelativeDocumentMoniker": "WebApplication4\\Services\\IOrderService.cs",
+              "ToolTip": "D:\\%UNIVER\\\u0420\u0435\u0456\u043D\u0436\u0438\u043D\u0456\u0440\u0438\u043D\u0433 \u043F\u0440\u043E\u0433\u0440\u0430\u043C\u043D\u043E\u0433\u043E \u0437\u0430\u0431\u0435\u0437\u043F\u0435\u0447\u0435\u043D\u043D\u044F\\WebApplication4\\WebApplication4\\Services\\IOrderService.cs",
+              "RelativeToolTip": "WebApplication4\\Services\\IOrderService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAYwCEAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-12T10:37:30.115Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "IPizzaService.cs",
+              "DocumentMoniker": "D:\\%UNIVER\\\u0420\u0435\u0456\u043D\u0436\u0438\u043D\u0456\u0440\u0438\u043D\u0433 \u043F\u0440\u043E\u0433\u0440\u0430\u043C\u043D\u043E\u0433\u043E \u0437\u0430\u0431\u0435\u0437\u043F\u0435\u0447\u0435\u043D\u043D\u044F\\WebApplication4\\WebApplication4\\Services\\IPizzaService.cs",
+              "RelativeDocumentMoniker": "WebApplication4\\Services\\IPizzaService.cs",
+              "ToolTip": "D:\\%UNIVER\\\u0420\u0435\u0456\u043D\u0436\u0438\u043D\u0456\u0440\u0438\u043D\u0433 \u043F\u0440\u043E\u0433\u0440\u0430\u043C\u043D\u043E\u0433\u043E \u0437\u0430\u0431\u0435\u0437\u043F\u0435\u0447\u0435\u043D\u043D\u044F\\WebApplication4\\WebApplication4\\Services\\IPizzaService.cs",
+              "RelativeToolTip": "WebApplication4\\Services\\IPizzaService.cs",
+              "ViewState": "AQIAACIAAAAAAAAAAAAwwEIAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-12T10:26:59.989Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "PizzasController.cs",
+              "DocumentMoniker": "D:\\%UNIVER\\\u0420\u0435\u0456\u043D\u0436\u0438\u043D\u0456\u0440\u0438\u043D\u0433 \u043F\u0440\u043E\u0433\u0440\u0430\u043C\u043D\u043E\u0433\u043E \u0437\u0430\u0431\u0435\u0437\u043F\u0435\u0447\u0435\u043D\u043D\u044F\\WebApplication4\\WebApplication4\\Controllers\\PizzasController.cs",
+              "RelativeDocumentMoniker": "WebApplication4\\Controllers\\PizzasController.cs",
+              "ToolTip": "D:\\%UNIVER\\\u0420\u0435\u0456\u043D\u0436\u0438\u043D\u0456\u0440\u0438\u043D\u0433 \u043F\u0440\u043E\u0433\u0440\u0430\u043C\u043D\u043E\u0433\u043E \u0437\u0430\u0431\u0435\u0437\u043F\u0435\u0447\u0435\u043D\u043D\u044F\\WebApplication4\\WebApplication4\\Controllers\\PizzasController.cs",
+              "RelativeToolTip": "WebApplication4\\Controllers\\PizzasController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAXAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-12T10:26:53.238Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

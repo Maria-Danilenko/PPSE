@@ -1,0 +1,791 @@
+C:\Users\Rin\source\repos\WebApplication4\WebApplication4\bin\Debug\net7.0\appsettings.Development.json
+C:\Users\Rin\source\repos\WebApplication4\WebApplication4\bin\Debug\net7.0\appsettings.json
+C:\Users\Rin\source\repos\WebApplication4\WebApplication4\bin\Debug\net7.0\WebApplication4.staticwebassets.runtime.json
+C:\Users\Rin\source\repos\WebApplication4\WebApplication4\bin\Debug\net7.0\WebApplication4.exe
+C:\Users\Rin\source\repos\WebApplication4\WebApplication4\bin\Debug\net7.0\WebApplication4.deps.json
+C:\Users\Rin\source\repos\WebApplication4\WebApplication4\bin\Debug\net7.0\WebApplication4.runtimeconfig.json
+C:\Users\Rin\source\repos\WebApplication4\WebApplication4\bin\Debug\net7.0\WebApplication4.dll
+C:\Users\Rin\source\repos\WebApplication4\WebApplication4\bin\Debug\net7.0\WebApplication4.pdb
+C:\Users\Rin\source\repos\WebApplication4\WebApplication4\obj\Debug\net7.0\WebApplication4.csproj.AssemblyReference.cache
+C:\Users\Rin\source\repos\WebApplication4\WebApplication4\obj\Debug\net7.0\WebApplication4.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Rin\source\repos\WebApplication4\WebApplication4\obj\Debug\net7.0\WebApplication4.AssemblyInfoInputs.cache
+C:\Users\Rin\source\repos\WebApplication4\WebApplication4\obj\Debug\net7.0\WebApplication4.AssemblyInfo.cs
+C:\Users\Rin\source\repos\WebApplication4\WebApplication4\obj\Debug\net7.0\WebApplication4.csproj.CoreCompileInputs.cache
+C:\Users\Rin\source\repos\WebApplication4\WebApplication4\obj\Debug\net7.0\WebApplication4.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Rin\source\repos\WebApplication4\WebApplication4\obj\Debug\net7.0\WebApplication4.RazorAssemblyInfo.cache
+C:\Users\Rin\source\repos\WebApplication4\WebApplication4\obj\Debug\net7.0\WebApplication4.RazorAssemblyInfo.cs
+C:\Users\Rin\source\repos\WebApplication4\WebApplication4\obj\Debug\net7.0\staticwebassets\msbuild.WebApplication4.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\Rin\source\repos\WebApplication4\WebApplication4\obj\Debug\net7.0\staticwebassets\msbuild.build.WebApplication4.props
+C:\Users\Rin\source\repos\WebApplication4\WebApplication4\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.WebApplication4.props
+C:\Users\Rin\source\repos\WebApplication4\WebApplication4\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.WebApplication4.props
+C:\Users\Rin\source\repos\WebApplication4\WebApplication4\obj\Debug\net7.0\staticwebassets.pack.json
+C:\Users\Rin\source\repos\WebApplication4\WebApplication4\obj\Debug\net7.0\staticwebassets.build.json
+C:\Users\Rin\source\repos\WebApplication4\WebApplication4\obj\Debug\net7.0\staticwebassets.development.json
+C:\Users\Rin\source\repos\WebApplication4\WebApplication4\obj\Debug\net7.0\scopedcss\Pages\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\Rin\source\repos\WebApplication4\WebApplication4\obj\Debug\net7.0\scopedcss\bundle\WebApplication4.styles.css
+C:\Users\Rin\source\repos\WebApplication4\WebApplication4\obj\Debug\net7.0\scopedcss\projectbundle\WebApplication4.bundle.scp.css
+C:\Users\Rin\source\repos\WebApplication4\WebApplication4\obj\Debug\net7.0\WebApplication4.dll
+C:\Users\Rin\source\repos\WebApplication4\WebApplication4\obj\Debug\net7.0\refint\WebApplication4.dll
+C:\Users\Rin\source\repos\WebApplication4\WebApplication4\obj\Debug\net7.0\WebApplication4.pdb
+C:\Users\Rin\source\repos\WebApplication4\WebApplication4\obj\Debug\net7.0\WebApplication4.genruntimeconfig.cache
+C:\Users\Rin\source\repos\WebApplication4\WebApplication4\obj\Debug\net7.0\ref\WebApplication4.dll
+C:\Users\Rin\source\repos\WebApplication4\WebApplication4\obj\Debug\net7.0\WebApplication4.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\Rin\source\repos\WebApplication4\WebApplication4\bin\Debug\net7.0\refs\Microsoft.AspNetCore.Antiforgery.dll
+C:\Users\Rin\source\repos\WebApplication4\WebApplication4\bin\Debug\net7.0\refs\Microsoft.AspNetCore.Authentication.Abstractions.dll
+C:\Users\Rin\source\repos\WebApplication4\WebApplication4\bin\Debug\net7.0\refs\Microsoft.AspNetCore.Authentication.Cookies.dll
+C:\Users\Rin\source\repos\WebApplication4\WebApplication4\bin\Debug\net7.0\refs\Microsoft.AspNetCore.Authentication.Core.dll
+C:\Users\Rin\source\repos\WebApplication4\WebApplication4\bin\Debug\net7.0\refs\Microsoft.AspNetCore.Authentication.dll
+C:\Users\Rin\source\repos\WebApplication4\WebApplication4\bin\Debug\net7.0\refs\Microsoft.AspNetCore.Authentication.OAuth.dll
+C:\Users\Rin\source\repos\WebApplication4\WebApplication4\bin\Debug\net7.0\refs\Microsoft.AspNetCore.Authorization.dll
+C:\Users\Rin\source\repos\WebApplication4\WebApplication4\bin\Debug\net7.0\refs\Microsoft.AspNetCore.Authorization.Policy.dll
+C:\Users\Rin\source\repos\WebApplication4\WebApplication4\bin\Debug\net7.0\refs\Microsoft.AspNetCore.Components.Authorization.dll
+C:\Users\Rin\source\repos\WebApplication4\WebApplication4\bin\Debug\net7.0\refs\Microsoft.AspNetCore.Components.dll
+C:\Users\Rin\source\repos\WebApplication4\WebApplication4\bin\Debug\net7.0\refs\Microsoft.AspNetCore.Components.Forms.dll
+C:\Users\Rin\source\repos\WebApplication4\WebApplication4\bin\Debug\net7.0\refs\Microsoft.AspNetCore.Components.Server.dll
+C:\Users\Rin\source\repos\WebApplication4\WebApplication4\bin\Debug\net7.0\refs\Microsoft.AspNetCore.Components.Web.dll
+C:\Users\Rin\source\repos\WebApplication4\WebApplication4\bin\Debug\net7.0\refs\Microsoft.AspNetCore.Connections.Abstractions.dll
+C:\Users\Rin\source\repos\WebApplication4\WebApplication4\bin\Debug\net7.0\refs\Microsoft.AspNetCore.CookiePolicy.dll
+C:\Users\Rin\source\repos\WebApplication4\WebApplication4\bin\Debug\net7.0\refs\Microsoft.AspNetCore.Cors.dll
+C:\Users\Rin\source\repos\WebApplication4\WebApplication4\bin\Debug\net7.0\refs\Microsoft.AspNetCore.DataProtection.Abstractions.dll
+C:\Users\Rin\source\repos\WebApplication4\WebApplication4\bin\Debug\net7.0\refs\Microsoft.AspNetCore.DataProtection.dll
+C:\Users\Rin\source\repos\WebApplication4\WebApplication4\bin\Debug\net7.0\refs\Microsoft.AspNetCore.DataProtection.Extensions.dll
+C:\Users\Rin\source\repos\WebApplication4\WebApplication4\bin\Debug\net7.0\refs\Microsoft.AspNetCore.Diagnostics.Abstractions.dll
+C:\Users\Rin\source\repos\WebApplication4\WebApplication4\bin\Debug\net7.0\refs\Microsoft.AspNetCore.Diagnostics.dll
+C:\Users\Rin\source\repos\WebApplication4\WebApplication4\bin\Debug\net7.0\refs\Microsoft.AspNetCore.Diagnostics.HealthChecks.dll
+C:\Users\Rin\source\repos\WebApplication4\WebApplication4\bin\Debug\net7.0\refs\Microsoft.AspNetCore.dll
+C:\Users\Rin\source\repos\WebApplication4\WebApplication4\bin\Debug\net7.0\refs\Microsoft.AspNetCore.HostFiltering.dll
+C:\Users\Rin\source\repos\WebApplication4\WebApplication4\bin\Debug\net7.0\refs\Microsoft.AspNetCore.Hosting.Abstractions.dll
+C:\Users\Rin\source\repos\WebApplication4\WebApplication4\bin\Debug\net7.0\refs\Microsoft.AspNetCore.Hosting.dll
+C:\Users\Rin\source\repos\WebApplication4\WebApplication4\bin\Debug\net7.0\refs\Microsoft.AspNetCore.Hosting.Server.Abstractions.dll
+C:\Users\Rin\source\repos\WebApplication4\WebApplication4\bin\Debug\net7.0\refs\Microsoft.AspNetCore.Html.Abstractions.dll
+C:\Users\Rin\source\repos\WebApplication4\WebApplication4\bin\Debug\net7.0\refs\Microsoft.AspNetCore.Http.Abstractions.dll
+C:\Users\Rin\source\repos\WebApplication4\WebApplication4\bin\Debug\net7.0\refs\Microsoft.AspNetCore.Http.Connections.Common.dll
+C:\Users\Rin\source\repos\WebApplication4\WebApplication4\bin\Debug\net7.0\refs\Microsoft.AspNetCore.Http.Connections.dll
+C:\Users\Rin\source\repos\WebApplication4\WebApplication4\bin\Debug\net7.0\refs\Microsoft.AspNetCore.Http.dll
+C:\Users\Rin\source\repos\WebApplication4\WebApplication4\bin\Debug\net7.0\refs\Microsoft.AspNetCore.Http.Extensions.dll
+C:\Users\Rin\source\repos\WebApplication4\WebApplication4\bin\Debug\net7.0\refs\Microsoft.AspNetCore.Http.Features.dll
+C:\Users\Rin\source\repos\WebApplication4\WebApplication4\bin\Debug\net7.0\refs\Microsoft.AspNetCore.Http.Results.dll
+C:\Users\Rin\source\repos\WebApplication4\WebApplication4\bin\Debug\net7.0\refs\Microsoft.AspNetCore.HttpLogging.dll
+C:\Users\Rin\source\repos\WebApplication4\WebApplication4\bin\Debug\net7.0\refs\Microsoft.AspNetCore.HttpOverrides.dll
+C:\Users\Rin\source\repos\WebApplication4\WebApplication4\bin\Debug\net7.0\refs\Microsoft.AspNetCore.HttpsPolicy.dll
+C:\Users\Rin\source\repos\WebApplication4\WebApplication4\bin\Debug\net7.0\refs\Microsoft.AspNetCore.Identity.dll
+C:\Users\Rin\source\repos\WebApplication4\WebApplication4\bin\Debug\net7.0\refs\Microsoft.AspNetCore.Localization.dll
+C:\Users\Rin\source\repos\WebApplication4\WebApplication4\bin\Debug\net7.0\refs\Microsoft.AspNetCore.Localization.Routing.dll
+C:\Users\Rin\source\repos\WebApplication4\WebApplication4\bin\Debug\net7.0\refs\Microsoft.AspNetCore.Metadata.dll
+C:\Users\Rin\source\repos\WebApplication4\WebApplication4\bin\Debug\net7.0\refs\Microsoft.AspNetCore.Mvc.Abstractions.dll
+C:\Users\Rin\source\repos\WebApplication4\WebApplication4\bin\Debug\net7.0\refs\Microsoft.AspNetCore.Mvc.ApiExplorer.dll
+C:\Users\Rin\source\repos\WebApplication4\WebApplication4\bin\Debug\net7.0\refs\Microsoft.AspNetCore.Mvc.Core.dll
+C:\Users\Rin\source\repos\WebApplication4\WebApplication4\bin\Debug\net7.0\refs\Microsoft.AspNetCore.Mvc.Cors.dll
+C:\Users\Rin\source\repos\WebApplication4\WebApplication4\bin\Debug\net7.0\refs\Microsoft.AspNetCore.Mvc.DataAnnotations.dll
+C:\Users\Rin\source\repos\WebApplication4\WebApplication4\bin\Debug\net7.0\refs\Microsoft.AspNetCore.Mvc.dll
+C:\Users\Rin\source\repos\WebApplication4\WebApplication4\bin\Debug\net7.0\refs\Microsoft.AspNetCore.Mvc.Formatters.Json.dll
+C:\Users\Rin\source\repos\WebApplication4\WebApplication4\bin\Debug\net7.0\refs\Microsoft.AspNetCore.Mvc.Formatters.Xml.dll
+C:\Users\Rin\source\repos\WebApplication4\WebApplication4\bin\Debug\net7.0\refs\Microsoft.AspNetCore.Mvc.Localization.dll
+C:\Users\Rin\source\repos\WebApplication4\WebApplication4\bin\Debug\net7.0\refs\Microsoft.AspNetCore.Mvc.Razor.dll
+C:\Users\Rin\source\repos\WebApplication4\WebApplication4\bin\Debug\net7.0\refs\Microsoft.AspNetCore.Mvc.RazorPages.dll
+C:\Users\Rin\source\repos\WebApplication4\WebApplication4\bin\Debug\net7.0\refs\Microsoft.AspNetCore.Mvc.TagHelpers.dll
+C:\Users\Rin\source\repos\WebApplication4\WebApplication4\bin\Debug\net7.0\refs\Microsoft.AspNetCore.Mvc.ViewFeatures.dll
+C:\Users\Rin\source\repos\WebApplication4\WebApplication4\bin\Debug\net7.0\refs\Microsoft.AspNetCore.OutputCaching.dll
+C:\Users\Rin\source\repos\WebApplication4\WebApplication4\bin\Debug\net7.0\refs\Microsoft.AspNetCore.RateLimiting.dll
+C:\Users\Rin\source\repos\WebApplication4\WebApplication4\bin\Debug\net7.0\refs\Microsoft.AspNetCore.Razor.dll
+C:\Users\Rin\source\repos\WebApplication4\WebApplication4\bin\Debug\net7.0\refs\Microsoft.AspNetCore.Razor.Runtime.dll
+C:\Users\Rin\source\repos\WebApplication4\WebApplication4\bin\Debug\net7.0\refs\Microsoft.AspNetCore.RequestDecompression.dll
+C:\Users\Rin\source\repos\WebApplication4\WebApplication4\bin\Debug\net7.0\refs\Microsoft.AspNetCore.ResponseCaching.Abstractions.dll
+C:\Users\Rin\source\repos\WebApplication4\WebApplication4\bin\Debug\net7.0\refs\Microsoft.AspNetCore.ResponseCaching.dll
+C:\Users\Rin\source\repos\WebApplication4\WebApplication4\bin\Debug\net7.0\refs\Microsoft.AspNetCore.ResponseCompression.dll
+C:\Users\Rin\source\repos\WebApplication4\WebApplication4\bin\Debug\net7.0\refs\Microsoft.AspNetCore.Rewrite.dll
+C:\Users\Rin\source\repos\WebApplication4\WebApplication4\bin\Debug\net7.0\refs\Microsoft.AspNetCore.Routing.Abstractions.dll
+C:\Users\Rin\source\repos\WebApplication4\WebApplication4\bin\Debug\net7.0\refs\Microsoft.AspNetCore.Routing.dll
+C:\Users\Rin\source\repos\WebApplication4\WebApplication4\bin\Debug\net7.0\refs\Microsoft.AspNetCore.Server.HttpSys.dll
+C:\Users\Rin\source\repos\WebApplication4\WebApplication4\bin\Debug\net7.0\refs\Microsoft.AspNetCore.Server.IIS.dll
+C:\Users\Rin\source\repos\WebApplication4\WebApplication4\bin\Debug\net7.0\refs\Microsoft.AspNetCore.Server.IISIntegration.dll
+C:\Users\Rin\source\repos\WebApplication4\WebApplication4\bin\Debug\net7.0\refs\Microsoft.AspNetCore.Server.Kestrel.Core.dll
+C:\Users\Rin\source\repos\WebApplication4\WebApplication4\bin\Debug\net7.0\refs\Microsoft.AspNetCore.Server.Kestrel.dll
+C:\Users\Rin\source\repos\WebApplication4\WebApplication4\bin\Debug\net7.0\refs\Microsoft.AspNetCore.Server.Kestrel.Transport.Quic.dll
+C:\Users\Rin\source\repos\WebApplication4\WebApplication4\bin\Debug\net7.0\refs\Microsoft.AspNetCore.Server.Kestrel.Transport.Sockets.dll
+C:\Users\Rin\source\repos\WebApplication4\WebApplication4\bin\Debug\net7.0\refs\Microsoft.AspNetCore.Session.dll
+C:\Users\Rin\source\repos\WebApplication4\WebApplication4\bin\Debug\net7.0\refs\Microsoft.AspNetCore.SignalR.Common.dll
+C:\Users\Rin\source\repos\WebApplication4\WebApplication4\bin\Debug\net7.0\refs\Microsoft.AspNetCore.SignalR.Core.dll
+C:\Users\Rin\source\repos\WebApplication4\WebApplication4\bin\Debug\net7.0\refs\Microsoft.AspNetCore.SignalR.dll
+C:\Users\Rin\source\repos\WebApplication4\WebApplication4\bin\Debug\net7.0\refs\Microsoft.AspNetCore.SignalR.Protocols.Json.dll
+C:\Users\Rin\source\repos\WebApplication4\WebApplication4\bin\Debug\net7.0\refs\Microsoft.AspNetCore.StaticFiles.dll
+C:\Users\Rin\source\repos\WebApplication4\WebApplication4\bin\Debug\net7.0\refs\Microsoft.AspNetCore.WebSockets.dll
+C:\Users\Rin\source\repos\WebApplication4\WebApplication4\bin\Debug\net7.0\refs\Microsoft.AspNetCore.WebUtilities.dll
+C:\Users\Rin\source\repos\WebApplication4\WebApplication4\bin\Debug\net7.0\refs\Microsoft.CSharp.dll
+C:\Users\Rin\source\repos\WebApplication4\WebApplication4\bin\Debug\net7.0\refs\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\Rin\source\repos\WebApplication4\WebApplication4\bin\Debug\net7.0\refs\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\Rin\source\repos\WebApplication4\WebApplication4\bin\Debug\net7.0\refs\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\Rin\source\repos\WebApplication4\WebApplication4\bin\Debug\net7.0\refs\Microsoft.Extensions.Configuration.Binder.dll
+C:\Users\Rin\source\repos\WebApplication4\WebApplication4\bin\Debug\net7.0\refs\Microsoft.Extensions.Configuration.CommandLine.dll
+C:\Users\Rin\source\repos\WebApplication4\WebApplication4\bin\Debug\net7.0\refs\Microsoft.Extensions.Configuration.dll
+C:\Users\Rin\source\repos\WebApplication4\WebApplication4\bin\Debug\net7.0\refs\Microsoft.Extensions.Configuration.EnvironmentVariables.dll
+C:\Users\Rin\source\repos\WebApplication4\WebApplication4\bin\Debug\net7.0\refs\Microsoft.Extensions.Configuration.FileExtensions.dll
+C:\Users\Rin\source\repos\WebApplication4\WebApplication4\bin\Debug\net7.0\refs\Microsoft.Extensions.Configuration.Ini.dll
+C:\Users\Rin\source\repos\WebApplication4\WebApplication4\bin\Debug\net7.0\refs\Microsoft.Extensions.Configuration.Json.dll
+C:\Users\Rin\source\repos\WebApplication4\WebApplication4\bin\Debug\net7.0\refs\Microsoft.Extensions.Configuration.KeyPerFile.dll
+C:\Users\Rin\source\repos\WebApplication4\WebApplication4\bin\Debug\net7.0\refs\Microsoft.Extensions.Configuration.UserSecrets.dll
+C:\Users\Rin\source\repos\WebApplication4\WebApplication4\bin\Debug\net7.0\refs\Microsoft.Extensions.Configuration.Xml.dll
+C:\Users\Rin\source\repos\WebApplication4\WebApplication4\bin\Debug\net7.0\refs\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\Rin\source\repos\WebApplication4\WebApplication4\bin\Debug\net7.0\refs\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\Rin\source\repos\WebApplication4\WebApplication4\bin\Debug\net7.0\refs\Microsoft.Extensions.Diagnostics.HealthChecks.Abstractions.dll
+C:\Users\Rin\source\repos\WebApplication4\WebApplication4\bin\Debug\net7.0\refs\Microsoft.Extensions.Diagnostics.HealthChecks.dll
+C:\Users\Rin\source\repos\WebApplication4\WebApplication4\bin\Debug\net7.0\refs\Microsoft.Extensions.Features.dll
+C:\Users\Rin\source\repos\WebApplication4\WebApplication4\bin\Debug\net7.0\refs\Microsoft.Extensions.FileProviders.Abstractions.dll
+C:\Users\Rin\source\repos\WebApplication4\WebApplication4\bin\Debug\net7.0\refs\Microsoft.Extensions.FileProviders.Composite.dll
+C:\Users\Rin\source\repos\WebApplication4\WebApplication4\bin\Debug\net7.0\refs\Microsoft.Extensions.FileProviders.Embedded.dll
+C:\Users\Rin\source\repos\WebApplication4\WebApplication4\bin\Debug\net7.0\refs\Microsoft.Extensions.FileProviders.Physical.dll
+C:\Users\Rin\source\repos\WebApplication4\WebApplication4\bin\Debug\net7.0\refs\Microsoft.Extensions.FileSystemGlobbing.dll
+C:\Users\Rin\source\repos\WebApplication4\WebApplication4\bin\Debug\net7.0\refs\Microsoft.Extensions.Hosting.Abstractions.dll
+C:\Users\Rin\source\repos\WebApplication4\WebApplication4\bin\Debug\net7.0\refs\Microsoft.Extensions.Hosting.dll
+C:\Users\Rin\source\repos\WebApplication4\WebApplication4\bin\Debug\net7.0\refs\Microsoft.Extensions.Http.dll
+C:\Users\Rin\source\repos\WebApplication4\WebApplication4\bin\Debug\net7.0\refs\Microsoft.Extensions.Localization.Abstractions.dll
+C:\Users\Rin\source\repos\WebApplication4\WebApplication4\bin\Debug\net7.0\refs\Microsoft.Extensions.Localization.dll
+C:\Users\Rin\source\repos\WebApplication4\WebApplication4\bin\Debug\net7.0\refs\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\Rin\source\repos\WebApplication4\WebApplication4\bin\Debug\net7.0\refs\Microsoft.Extensions.Logging.Configuration.dll
+C:\Users\Rin\source\repos\WebApplication4\WebApplication4\bin\Debug\net7.0\refs\Microsoft.Extensions.Logging.Console.dll
+C:\Users\Rin\source\repos\WebApplication4\WebApplication4\bin\Debug\net7.0\refs\Microsoft.Extensions.Logging.Debug.dll
+C:\Users\Rin\source\repos\WebApplication4\WebApplication4\bin\Debug\net7.0\refs\Microsoft.Extensions.Logging.dll
+C:\Users\Rin\source\repos\WebApplication4\WebApplication4\bin\Debug\net7.0\refs\Microsoft.Extensions.Logging.EventLog.dll
+C:\Users\Rin\source\repos\WebApplication4\WebApplication4\bin\Debug\net7.0\refs\Microsoft.Extensions.Logging.EventSource.dll
+C:\Users\Rin\source\repos\WebApplication4\WebApplication4\bin\Debug\net7.0\refs\Microsoft.Extensions.Logging.TraceSource.dll
+C:\Users\Rin\source\repos\WebApplication4\WebApplication4\bin\Debug\net7.0\refs\Microsoft.Extensions.ObjectPool.dll
+C:\Users\Rin\source\repos\WebApplication4\WebApplication4\bin\Debug\net7.0\refs\Microsoft.Extensions.Options.ConfigurationExtensions.dll
+C:\Users\Rin\source\repos\WebApplication4\WebApplication4\bin\Debug\net7.0\refs\Microsoft.Extensions.Options.DataAnnotations.dll
+C:\Users\Rin\source\repos\WebApplication4\WebApplication4\bin\Debug\net7.0\refs\Microsoft.Extensions.Primitives.dll
+C:\Users\Rin\source\repos\WebApplication4\WebApplication4\bin\Debug\net7.0\refs\Microsoft.Extensions.WebEncoders.dll
+C:\Users\Rin\source\repos\WebApplication4\WebApplication4\bin\Debug\net7.0\refs\Microsoft.JSInterop.dll
+C:\Users\Rin\source\repos\WebApplication4\WebApplication4\bin\Debug\net7.0\refs\Microsoft.Net.Http.Headers.dll
+C:\Users\Rin\source\repos\WebApplication4\WebApplication4\bin\Debug\net7.0\refs\Microsoft.VisualBasic.Core.dll
+C:\Users\Rin\source\repos\WebApplication4\WebApplication4\bin\Debug\net7.0\refs\Microsoft.VisualBasic.dll
+C:\Users\Rin\source\repos\WebApplication4\WebApplication4\bin\Debug\net7.0\refs\Microsoft.Win32.Primitives.dll
+C:\Users\Rin\source\repos\WebApplication4\WebApplication4\bin\Debug\net7.0\refs\Microsoft.Win32.Registry.dll
+C:\Users\Rin\source\repos\WebApplication4\WebApplication4\bin\Debug\net7.0\refs\mscorlib.dll
+C:\Users\Rin\source\repos\WebApplication4\WebApplication4\bin\Debug\net7.0\refs\netstandard.dll
+C:\Users\Rin\source\repos\WebApplication4\WebApplication4\bin\Debug\net7.0\refs\System.AppContext.dll
+C:\Users\Rin\source\repos\WebApplication4\WebApplication4\bin\Debug\net7.0\refs\System.Buffers.dll
+C:\Users\Rin\source\repos\WebApplication4\WebApplication4\bin\Debug\net7.0\refs\System.Collections.Concurrent.dll
+C:\Users\Rin\source\repos\WebApplication4\WebApplication4\bin\Debug\net7.0\refs\System.Collections.dll
+C:\Users\Rin\source\repos\WebApplication4\WebApplication4\bin\Debug\net7.0\refs\System.Collections.Immutable.dll
+C:\Users\Rin\source\repos\WebApplication4\WebApplication4\bin\Debug\net7.0\refs\System.Collections.NonGeneric.dll
+C:\Users\Rin\source\repos\WebApplication4\WebApplication4\bin\Debug\net7.0\refs\System.Collections.Specialized.dll
+C:\Users\Rin\source\repos\WebApplication4\WebApplication4\bin\Debug\net7.0\refs\System.ComponentModel.Annotations.dll
+C:\Users\Rin\source\repos\WebApplication4\WebApplication4\bin\Debug\net7.0\refs\System.ComponentModel.DataAnnotations.dll
+C:\Users\Rin\source\repos\WebApplication4\WebApplication4\bin\Debug\net7.0\refs\System.ComponentModel.dll
+C:\Users\Rin\source\repos\WebApplication4\WebApplication4\bin\Debug\net7.0\refs\System.ComponentModel.EventBasedAsync.dll
+C:\Users\Rin\source\repos\WebApplication4\WebApplication4\bin\Debug\net7.0\refs\System.ComponentModel.Primitives.dll
+C:\Users\Rin\source\repos\WebApplication4\WebApplication4\bin\Debug\net7.0\refs\System.ComponentModel.TypeConverter.dll
+C:\Users\Rin\source\repos\WebApplication4\WebApplication4\bin\Debug\net7.0\refs\System.Configuration.dll
+C:\Users\Rin\source\repos\WebApplication4\WebApplication4\bin\Debug\net7.0\refs\System.Console.dll
+C:\Users\Rin\source\repos\WebApplication4\WebApplication4\bin\Debug\net7.0\refs\System.Core.dll
+C:\Users\Rin\source\repos\WebApplication4\WebApplication4\bin\Debug\net7.0\refs\System.Data.Common.dll
+C:\Users\Rin\source\repos\WebApplication4\WebApplication4\bin\Debug\net7.0\refs\System.Data.DataSetExtensions.dll
+C:\Users\Rin\source\repos\WebApplication4\WebApplication4\bin\Debug\net7.0\refs\System.Data.dll
+C:\Users\Rin\source\repos\WebApplication4\WebApplication4\bin\Debug\net7.0\refs\System.Diagnostics.Contracts.dll
+C:\Users\Rin\source\repos\WebApplication4\WebApplication4\bin\Debug\net7.0\refs\System.Diagnostics.Debug.dll
+C:\Users\Rin\source\repos\WebApplication4\WebApplication4\bin\Debug\net7.0\refs\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Rin\source\repos\WebApplication4\WebApplication4\bin\Debug\net7.0\refs\System.Diagnostics.EventLog.dll
+C:\Users\Rin\source\repos\WebApplication4\WebApplication4\bin\Debug\net7.0\refs\System.Diagnostics.FileVersionInfo.dll
+C:\Users\Rin\source\repos\WebApplication4\WebApplication4\bin\Debug\net7.0\refs\System.Diagnostics.Process.dll
+C:\Users\Rin\source\repos\WebApplication4\WebApplication4\bin\Debug\net7.0\refs\System.Diagnostics.StackTrace.dll
+C:\Users\Rin\source\repos\WebApplication4\WebApplication4\bin\Debug\net7.0\refs\System.Diagnostics.TextWriterTraceListener.dll
+C:\Users\Rin\source\repos\WebApplication4\WebApplication4\bin\Debug\net7.0\refs\System.Diagnostics.Tools.dll
+C:\Users\Rin\source\repos\WebApplication4\WebApplication4\bin\Debug\net7.0\refs\System.Diagnostics.TraceSource.dll
+C:\Users\Rin\source\repos\WebApplication4\WebApplication4\bin\Debug\net7.0\refs\System.Diagnostics.Tracing.dll
+C:\Users\Rin\source\repos\WebApplication4\WebApplication4\bin\Debug\net7.0\refs\System.dll
+C:\Users\Rin\source\repos\WebApplication4\WebApplication4\bin\Debug\net7.0\refs\System.Drawing.dll
+C:\Users\Rin\source\repos\WebApplication4\WebApplication4\bin\Debug\net7.0\refs\System.Drawing.Primitives.dll
+C:\Users\Rin\source\repos\WebApplication4\WebApplication4\bin\Debug\net7.0\refs\System.Dynamic.Runtime.dll
+C:\Users\Rin\source\repos\WebApplication4\WebApplication4\bin\Debug\net7.0\refs\System.Formats.Asn1.dll
+C:\Users\Rin\source\repos\WebApplication4\WebApplication4\bin\Debug\net7.0\refs\System.Formats.Tar.dll
+C:\Users\Rin\source\repos\WebApplication4\WebApplication4\bin\Debug\net7.0\refs\System.Globalization.Calendars.dll
+C:\Users\Rin\source\repos\WebApplication4\WebApplication4\bin\Debug\net7.0\refs\System.Globalization.dll
+C:\Users\Rin\source\repos\WebApplication4\WebApplication4\bin\Debug\net7.0\refs\System.Globalization.Extensions.dll
+C:\Users\Rin\source\repos\WebApplication4\WebApplication4\bin\Debug\net7.0\refs\System.IO.Compression.Brotli.dll
+C:\Users\Rin\source\repos\WebApplication4\WebApplication4\bin\Debug\net7.0\refs\System.IO.Compression.dll
+C:\Users\Rin\source\repos\WebApplication4\WebApplication4\bin\Debug\net7.0\refs\System.IO.Compression.FileSystem.dll
+C:\Users\Rin\source\repos\WebApplication4\WebApplication4\bin\Debug\net7.0\refs\System.IO.Compression.ZipFile.dll
+C:\Users\Rin\source\repos\WebApplication4\WebApplication4\bin\Debug\net7.0\refs\System.IO.dll
+C:\Users\Rin\source\repos\WebApplication4\WebApplication4\bin\Debug\net7.0\refs\System.IO.FileSystem.AccessControl.dll
+C:\Users\Rin\source\repos\WebApplication4\WebApplication4\bin\Debug\net7.0\refs\System.IO.FileSystem.dll
+C:\Users\Rin\source\repos\WebApplication4\WebApplication4\bin\Debug\net7.0\refs\System.IO.FileSystem.DriveInfo.dll
+C:\Users\Rin\source\repos\WebApplication4\WebApplication4\bin\Debug\net7.0\refs\System.IO.FileSystem.Primitives.dll
+C:\Users\Rin\source\repos\WebApplication4\WebApplication4\bin\Debug\net7.0\refs\System.IO.FileSystem.Watcher.dll
+C:\Users\Rin\source\repos\WebApplication4\WebApplication4\bin\Debug\net7.0\refs\System.IO.IsolatedStorage.dll
+C:\Users\Rin\source\repos\WebApplication4\WebApplication4\bin\Debug\net7.0\refs\System.IO.MemoryMappedFiles.dll
+C:\Users\Rin\source\repos\WebApplication4\WebApplication4\bin\Debug\net7.0\refs\System.IO.Pipelines.dll
+C:\Users\Rin\source\repos\WebApplication4\WebApplication4\bin\Debug\net7.0\refs\System.IO.Pipes.AccessControl.dll
+C:\Users\Rin\source\repos\WebApplication4\WebApplication4\bin\Debug\net7.0\refs\System.IO.Pipes.dll
+C:\Users\Rin\source\repos\WebApplication4\WebApplication4\bin\Debug\net7.0\refs\System.IO.UnmanagedMemoryStream.dll
+C:\Users\Rin\source\repos\WebApplication4\WebApplication4\bin\Debug\net7.0\refs\System.Linq.dll
+C:\Users\Rin\source\repos\WebApplication4\WebApplication4\bin\Debug\net7.0\refs\System.Linq.Expressions.dll
+C:\Users\Rin\source\repos\WebApplication4\WebApplication4\bin\Debug\net7.0\refs\System.Linq.Parallel.dll
+C:\Users\Rin\source\repos\WebApplication4\WebApplication4\bin\Debug\net7.0\refs\System.Linq.Queryable.dll
+C:\Users\Rin\source\repos\WebApplication4\WebApplication4\bin\Debug\net7.0\refs\System.Memory.dll
+C:\Users\Rin\source\repos\WebApplication4\WebApplication4\bin\Debug\net7.0\refs\System.Net.dll
+C:\Users\Rin\source\repos\WebApplication4\WebApplication4\bin\Debug\net7.0\refs\System.Net.Http.dll
+C:\Users\Rin\source\repos\WebApplication4\WebApplication4\bin\Debug\net7.0\refs\System.Net.Http.Json.dll
+C:\Users\Rin\source\repos\WebApplication4\WebApplication4\bin\Debug\net7.0\refs\System.Net.HttpListener.dll
+C:\Users\Rin\source\repos\WebApplication4\WebApplication4\bin\Debug\net7.0\refs\System.Net.Mail.dll
+C:\Users\Rin\source\repos\WebApplication4\WebApplication4\bin\Debug\net7.0\refs\System.Net.NameResolution.dll
+C:\Users\Rin\source\repos\WebApplication4\WebApplication4\bin\Debug\net7.0\refs\System.Net.NetworkInformation.dll
+C:\Users\Rin\source\repos\WebApplication4\WebApplication4\bin\Debug\net7.0\refs\System.Net.Ping.dll
+C:\Users\Rin\source\repos\WebApplication4\WebApplication4\bin\Debug\net7.0\refs\System.Net.Primitives.dll
+C:\Users\Rin\source\repos\WebApplication4\WebApplication4\bin\Debug\net7.0\refs\System.Net.Quic.dll
+C:\Users\Rin\source\repos\WebApplication4\WebApplication4\bin\Debug\net7.0\refs\System.Net.Requests.dll
+C:\Users\Rin\source\repos\WebApplication4\WebApplication4\bin\Debug\net7.0\refs\System.Net.Security.dll
+C:\Users\Rin\source\repos\WebApplication4\WebApplication4\bin\Debug\net7.0\refs\System.Net.ServicePoint.dll
+C:\Users\Rin\source\repos\WebApplication4\WebApplication4\bin\Debug\net7.0\refs\System.Net.Sockets.dll
+C:\Users\Rin\source\repos\WebApplication4\WebApplication4\bin\Debug\net7.0\refs\System.Net.WebClient.dll
+C:\Users\Rin\source\repos\WebApplication4\WebApplication4\bin\Debug\net7.0\refs\System.Net.WebHeaderCollection.dll
+C:\Users\Rin\source\repos\WebApplication4\WebApplication4\bin\Debug\net7.0\refs\System.Net.WebProxy.dll
+C:\Users\Rin\source\repos\WebApplication4\WebApplication4\bin\Debug\net7.0\refs\System.Net.WebSockets.Client.dll
+C:\Users\Rin\source\repos\WebApplication4\WebApplication4\bin\Debug\net7.0\refs\System.Net.WebSockets.dll
+C:\Users\Rin\source\repos\WebApplication4\WebApplication4\bin\Debug\net7.0\refs\System.Numerics.dll
+C:\Users\Rin\source\repos\WebApplication4\WebApplication4\bin\Debug\net7.0\refs\System.Numerics.Vectors.dll
+C:\Users\Rin\source\repos\WebApplication4\WebApplication4\bin\Debug\net7.0\refs\System.ObjectModel.dll
+C:\Users\Rin\source\repos\WebApplication4\WebApplication4\bin\Debug\net7.0\refs\System.Reflection.DispatchProxy.dll
+C:\Users\Rin\source\repos\WebApplication4\WebApplication4\bin\Debug\net7.0\refs\System.Reflection.dll
+C:\Users\Rin\source\repos\WebApplication4\WebApplication4\bin\Debug\net7.0\refs\System.Reflection.Emit.dll
+C:\Users\Rin\source\repos\WebApplication4\WebApplication4\bin\Debug\net7.0\refs\System.Reflection.Emit.ILGeneration.dll
+C:\Users\Rin\source\repos\WebApplication4\WebApplication4\bin\Debug\net7.0\refs\System.Reflection.Emit.Lightweight.dll
+C:\Users\Rin\source\repos\WebApplication4\WebApplication4\bin\Debug\net7.0\refs\System.Reflection.Extensions.dll
+C:\Users\Rin\source\repos\WebApplication4\WebApplication4\bin\Debug\net7.0\refs\System.Reflection.Metadata.dll
+C:\Users\Rin\source\repos\WebApplication4\WebApplication4\bin\Debug\net7.0\refs\System.Reflection.Primitives.dll
+C:\Users\Rin\source\repos\WebApplication4\WebApplication4\bin\Debug\net7.0\refs\System.Reflection.TypeExtensions.dll
+C:\Users\Rin\source\repos\WebApplication4\WebApplication4\bin\Debug\net7.0\refs\System.Resources.Reader.dll
+C:\Users\Rin\source\repos\WebApplication4\WebApplication4\bin\Debug\net7.0\refs\System.Resources.ResourceManager.dll
+C:\Users\Rin\source\repos\WebApplication4\WebApplication4\bin\Debug\net7.0\refs\System.Resources.Writer.dll
+C:\Users\Rin\source\repos\WebApplication4\WebApplication4\bin\Debug\net7.0\refs\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\Rin\source\repos\WebApplication4\WebApplication4\bin\Debug\net7.0\refs\System.Runtime.CompilerServices.VisualC.dll
+C:\Users\Rin\source\repos\WebApplication4\WebApplication4\bin\Debug\net7.0\refs\System.Runtime.dll
+C:\Users\Rin\source\repos\WebApplication4\WebApplication4\bin\Debug\net7.0\refs\System.Runtime.Extensions.dll
+C:\Users\Rin\source\repos\WebApplication4\WebApplication4\bin\Debug\net7.0\refs\System.Runtime.Handles.dll
+C:\Users\Rin\source\repos\WebApplication4\WebApplication4\bin\Debug\net7.0\refs\System.Runtime.InteropServices.dll
+C:\Users\Rin\source\repos\WebApplication4\WebApplication4\bin\Debug\net7.0\refs\System.Runtime.InteropServices.JavaScript.dll
+C:\Users\Rin\source\repos\WebApplication4\WebApplication4\bin\Debug\net7.0\refs\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\Rin\source\repos\WebApplication4\WebApplication4\bin\Debug\net7.0\refs\System.Runtime.Intrinsics.dll
+C:\Users\Rin\source\repos\WebApplication4\WebApplication4\bin\Debug\net7.0\refs\System.Runtime.Loader.dll
+C:\Users\Rin\source\repos\WebApplication4\WebApplication4\bin\Debug\net7.0\refs\System.Runtime.Numerics.dll
+C:\Users\Rin\source\repos\WebApplication4\WebApplication4\bin\Debug\net7.0\refs\System.Runtime.Serialization.dll
+C:\Users\Rin\source\repos\WebApplication4\WebApplication4\bin\Debug\net7.0\refs\System.Runtime.Serialization.Formatters.dll
+C:\Users\Rin\source\repos\WebApplication4\WebApplication4\bin\Debug\net7.0\refs\System.Runtime.Serialization.Json.dll
+C:\Users\Rin\source\repos\WebApplication4\WebApplication4\bin\Debug\net7.0\refs\System.Runtime.Serialization.Primitives.dll
+C:\Users\Rin\source\repos\WebApplication4\WebApplication4\bin\Debug\net7.0\refs\System.Runtime.Serialization.Xml.dll
+C:\Users\Rin\source\repos\WebApplication4\WebApplication4\bin\Debug\net7.0\refs\System.Security.AccessControl.dll
+C:\Users\Rin\source\repos\WebApplication4\WebApplication4\bin\Debug\net7.0\refs\System.Security.Claims.dll
+C:\Users\Rin\source\repos\WebApplication4\WebApplication4\bin\Debug\net7.0\refs\System.Security.Cryptography.Algorithms.dll
+C:\Users\Rin\source\repos\WebApplication4\WebApplication4\bin\Debug\net7.0\refs\System.Security.Cryptography.Cng.dll
+C:\Users\Rin\source\repos\WebApplication4\WebApplication4\bin\Debug\net7.0\refs\System.Security.Cryptography.Csp.dll
+C:\Users\Rin\source\repos\WebApplication4\WebApplication4\bin\Debug\net7.0\refs\System.Security.Cryptography.dll
+C:\Users\Rin\source\repos\WebApplication4\WebApplication4\bin\Debug\net7.0\refs\System.Security.Cryptography.Encoding.dll
+C:\Users\Rin\source\repos\WebApplication4\WebApplication4\bin\Debug\net7.0\refs\System.Security.Cryptography.OpenSsl.dll
+C:\Users\Rin\source\repos\WebApplication4\WebApplication4\bin\Debug\net7.0\refs\System.Security.Cryptography.Primitives.dll
+C:\Users\Rin\source\repos\WebApplication4\WebApplication4\bin\Debug\net7.0\refs\System.Security.Cryptography.X509Certificates.dll
+C:\Users\Rin\source\repos\WebApplication4\WebApplication4\bin\Debug\net7.0\refs\System.Security.Cryptography.Xml.dll
+C:\Users\Rin\source\repos\WebApplication4\WebApplication4\bin\Debug\net7.0\refs\System.Security.dll
+C:\Users\Rin\source\repos\WebApplication4\WebApplication4\bin\Debug\net7.0\refs\System.Security.Principal.dll
+C:\Users\Rin\source\repos\WebApplication4\WebApplication4\bin\Debug\net7.0\refs\System.Security.Principal.Windows.dll
+C:\Users\Rin\source\repos\WebApplication4\WebApplication4\bin\Debug\net7.0\refs\System.Security.SecureString.dll
+C:\Users\Rin\source\repos\WebApplication4\WebApplication4\bin\Debug\net7.0\refs\System.ServiceModel.Web.dll
+C:\Users\Rin\source\repos\WebApplication4\WebApplication4\bin\Debug\net7.0\refs\System.ServiceProcess.dll
+C:\Users\Rin\source\repos\WebApplication4\WebApplication4\bin\Debug\net7.0\refs\System.Text.Encoding.CodePages.dll
+C:\Users\Rin\source\repos\WebApplication4\WebApplication4\bin\Debug\net7.0\refs\System.Text.Encoding.dll
+C:\Users\Rin\source\repos\WebApplication4\WebApplication4\bin\Debug\net7.0\refs\System.Text.Encoding.Extensions.dll
+C:\Users\Rin\source\repos\WebApplication4\WebApplication4\bin\Debug\net7.0\refs\System.Text.Encodings.Web.dll
+C:\Users\Rin\source\repos\WebApplication4\WebApplication4\bin\Debug\net7.0\refs\System.Text.Json.dll
+C:\Users\Rin\source\repos\WebApplication4\WebApplication4\bin\Debug\net7.0\refs\System.Text.RegularExpressions.dll
+C:\Users\Rin\source\repos\WebApplication4\WebApplication4\bin\Debug\net7.0\refs\System.Threading.Channels.dll
+C:\Users\Rin\source\repos\WebApplication4\WebApplication4\bin\Debug\net7.0\refs\System.Threading.dll
+C:\Users\Rin\source\repos\WebApplication4\WebApplication4\bin\Debug\net7.0\refs\System.Threading.Overlapped.dll
+C:\Users\Rin\source\repos\WebApplication4\WebApplication4\bin\Debug\net7.0\refs\System.Threading.RateLimiting.dll
+C:\Users\Rin\source\repos\WebApplication4\WebApplication4\bin\Debug\net7.0\refs\System.Threading.Tasks.Dataflow.dll
+C:\Users\Rin\source\repos\WebApplication4\WebApplication4\bin\Debug\net7.0\refs\System.Threading.Tasks.dll
+C:\Users\Rin\source\repos\WebApplication4\WebApplication4\bin\Debug\net7.0\refs\System.Threading.Tasks.Extensions.dll
+C:\Users\Rin\source\repos\WebApplication4\WebApplication4\bin\Debug\net7.0\refs\System.Threading.Tasks.Parallel.dll
+C:\Users\Rin\source\repos\WebApplication4\WebApplication4\bin\Debug\net7.0\refs\System.Threading.Thread.dll
+C:\Users\Rin\source\repos\WebApplication4\WebApplication4\bin\Debug\net7.0\refs\System.Threading.ThreadPool.dll
+C:\Users\Rin\source\repos\WebApplication4\WebApplication4\bin\Debug\net7.0\refs\System.Threading.Timer.dll
+C:\Users\Rin\source\repos\WebApplication4\WebApplication4\bin\Debug\net7.0\refs\System.Transactions.dll
+C:\Users\Rin\source\repos\WebApplication4\WebApplication4\bin\Debug\net7.0\refs\System.Transactions.Local.dll
+C:\Users\Rin\source\repos\WebApplication4\WebApplication4\bin\Debug\net7.0\refs\System.ValueTuple.dll
+C:\Users\Rin\source\repos\WebApplication4\WebApplication4\bin\Debug\net7.0\refs\System.Web.dll
+C:\Users\Rin\source\repos\WebApplication4\WebApplication4\bin\Debug\net7.0\refs\System.Web.HttpUtility.dll
+C:\Users\Rin\source\repos\WebApplication4\WebApplication4\bin\Debug\net7.0\refs\System.Windows.dll
+C:\Users\Rin\source\repos\WebApplication4\WebApplication4\bin\Debug\net7.0\refs\System.Xml.dll
+C:\Users\Rin\source\repos\WebApplication4\WebApplication4\bin\Debug\net7.0\refs\System.Xml.Linq.dll
+C:\Users\Rin\source\repos\WebApplication4\WebApplication4\bin\Debug\net7.0\refs\System.Xml.ReaderWriter.dll
+C:\Users\Rin\source\repos\WebApplication4\WebApplication4\bin\Debug\net7.0\refs\System.Xml.Serialization.dll
+C:\Users\Rin\source\repos\WebApplication4\WebApplication4\bin\Debug\net7.0\refs\System.Xml.XDocument.dll
+C:\Users\Rin\source\repos\WebApplication4\WebApplication4\bin\Debug\net7.0\refs\System.Xml.XmlDocument.dll
+C:\Users\Rin\source\repos\WebApplication4\WebApplication4\bin\Debug\net7.0\refs\System.Xml.XmlSerializer.dll
+C:\Users\Rin\source\repos\WebApplication4\WebApplication4\bin\Debug\net7.0\refs\System.Xml.XPath.dll
+C:\Users\Rin\source\repos\WebApplication4\WebApplication4\bin\Debug\net7.0\refs\System.Xml.XPath.XDocument.dll
+C:\Users\Rin\source\repos\WebApplication4\WebApplication4\bin\Debug\net7.0\refs\WindowsBase.dll
+C:\Users\Rin\source\repos\WebApplication4\WebApplication4\bin\Debug\net7.0\Microsoft.AspNetCore.JsonPatch.dll
+C:\Users\Rin\source\repos\WebApplication4\WebApplication4\bin\Debug\net7.0\Microsoft.AspNetCore.Mvc.Razor.Extensions.dll
+C:\Users\Rin\source\repos\WebApplication4\WebApplication4\bin\Debug\net7.0\Microsoft.AspNetCore.Mvc.Razor.RuntimeCompilation.dll
+C:\Users\Rin\source\repos\WebApplication4\WebApplication4\bin\Debug\net7.0\Microsoft.AspNetCore.Razor.Language.dll
+C:\Users\Rin\source\repos\WebApplication4\WebApplication4\bin\Debug\net7.0\Microsoft.CodeAnalysis.dll
+C:\Users\Rin\source\repos\WebApplication4\WebApplication4\bin\Debug\net7.0\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Rin\source\repos\WebApplication4\WebApplication4\bin\Debug\net7.0\Microsoft.CodeAnalysis.Razor.dll
+C:\Users\Rin\source\repos\WebApplication4\WebApplication4\bin\Debug\net7.0\Microsoft.Extensions.DependencyModel.dll
+C:\Users\Rin\source\repos\WebApplication4\WebApplication4\bin\Debug\net7.0\Newtonsoft.Json.dll
+C:\Users\Rin\source\repos\WebApplication4\WebApplication4\bin\Debug\net7.0\Newtonsoft.Json.Bson.dll
+C:\Users\Rin\source\repos\WebApplication4\WebApplication4\bin\Debug\net7.0\System.Security.Permissions.dll
+C:\Users\Rin\source\repos\WebApplication4\WebApplication4\bin\Debug\net7.0\cs\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Rin\source\repos\WebApplication4\WebApplication4\bin\Debug\net7.0\de\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Rin\source\repos\WebApplication4\WebApplication4\bin\Debug\net7.0\es\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Rin\source\repos\WebApplication4\WebApplication4\bin\Debug\net7.0\fr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Rin\source\repos\WebApplication4\WebApplication4\bin\Debug\net7.0\it\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Rin\source\repos\WebApplication4\WebApplication4\bin\Debug\net7.0\ja\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Rin\source\repos\WebApplication4\WebApplication4\bin\Debug\net7.0\ko\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Rin\source\repos\WebApplication4\WebApplication4\bin\Debug\net7.0\pl\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Rin\source\repos\WebApplication4\WebApplication4\bin\Debug\net7.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Rin\source\repos\WebApplication4\WebApplication4\bin\Debug\net7.0\ru\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Rin\source\repos\WebApplication4\WebApplication4\bin\Debug\net7.0\tr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Rin\source\repos\WebApplication4\WebApplication4\bin\Debug\net7.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Rin\source\repos\WebApplication4\WebApplication4\bin\Debug\net7.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Rin\source\repos\WebApplication4\WebApplication4\bin\Debug\net7.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Rin\source\repos\WebApplication4\WebApplication4\bin\Debug\net7.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Rin\source\repos\WebApplication4\WebApplication4\bin\Debug\net7.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Rin\source\repos\WebApplication4\WebApplication4\bin\Debug\net7.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Rin\source\repos\WebApplication4\WebApplication4\bin\Debug\net7.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Rin\source\repos\WebApplication4\WebApplication4\bin\Debug\net7.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Rin\source\repos\WebApplication4\WebApplication4\bin\Debug\net7.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Rin\source\repos\WebApplication4\WebApplication4\bin\Debug\net7.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Rin\source\repos\WebApplication4\WebApplication4\bin\Debug\net7.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Rin\source\repos\WebApplication4\WebApplication4\bin\Debug\net7.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Rin\source\repos\WebApplication4\WebApplication4\bin\Debug\net7.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Rin\source\repos\WebApplication4\WebApplication4\bin\Debug\net7.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Rin\source\repos\WebApplication4\WebApplication4\bin\Debug\net7.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Rin\source\repos\WebApplication4\WebApplication4\obj\Debug\net7.0\WebApplication4.csproj.CopyComplete
+C:\Users\Rin\source\repos\WebApplication4\WebApplication4\bin\Debug\net7.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\Users\Rin\source\repos\WebApplication4\WebApplication4\bin\Debug\net7.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\Rin\source\repos\WebApplication4\WebApplication4\bin\Debug\net7.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\Rin\source\repos\WebApplication4\WebApplication4\bin\Debug\net7.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\Rin\source\repos\WebApplication4\WebApplication4\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\Rin\source\repos\WebApplication4\WebApplication4\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\Rin\source\repos\WebApplication4\WebApplication4\bin\Debug\net7.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\Rin\source\repos\WebApplication4\WebApplication4\bin\Debug\net7.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\Rin\source\repos\WebApplication4\WebApplication4\bin\Debug\net7.0\Microsoft.OpenApi.dll
+C:\Users\Rin\source\repos\WebApplication4\WebApplication4\bin\Debug\net7.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\Rin\source\repos\WebApplication4\WebApplication4\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\Rin\source\repos\WebApplication4\WebApplication4\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\Rin\source\repos\WebApplication4\WebApplication4\bin\Debug\net7.0\WebApplication4.xml
+C:\Users\Rin\source\repos\WebApplication4\WebApplication4\obj\Debug\net7.0\WebApplication4.xml
+C:\Users\Rin\source\repos\WebApplication4\WebApplication4\bin\Debug\net7.0\Microsoft.AspNetCore.Cryptography.Internal.dll
+C:\Users\Rin\source\repos\WebApplication4\WebApplication4\bin\Debug\net7.0\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+C:\Users\Rin\source\repos\WebApplication4\WebApplication4\bin\Debug\net7.0\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+C:\Users\Rin\source\repos\WebApplication4\WebApplication4\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\Rin\source\repos\WebApplication4\WebApplication4\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\Rin\source\repos\WebApplication4\WebApplication4\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\Rin\source\repos\WebApplication4\WebApplication4\bin\Debug\net7.0\Microsoft.Extensions.Identity.Core.dll
+C:\Users\Rin\source\repos\WebApplication4\WebApplication4\bin\Debug\net7.0\Microsoft.Extensions.Identity.Stores.dll
+C:\Users\Rin\source\repos\WebApplication4\WebApplication4\bin\Debug\net7.0\Microsoft.Extensions.Options.dll
+C:\Users\Rin\source\repos\WebApplication4\WebApplication4\bin\Debug\net7.0\ClosedXML.dll
+C:\Users\Rin\source\repos\WebApplication4\WebApplication4\bin\Debug\net7.0\DocumentFormat.OpenXml.dll
+C:\Users\Rin\source\repos\WebApplication4\WebApplication4\bin\Debug\net7.0\ExcelNumberFormat.dll
+C:\Users\Rin\source\repos\WebApplication4\WebApplication4\bin\Debug\net7.0\Irony.dll
+C:\Users\Rin\source\repos\WebApplication4\WebApplication4\bin\Debug\net7.0\Microsoft.AspNetCore.Mvc.Versioning.dll
+C:\Users\Rin\source\repos\WebApplication4\WebApplication4\bin\Debug\net7.0\Microsoft.AspNetCore.Mvc.Versioning.ApiExplorer.dll
+C:\Users\Rin\source\repos\WebApplication4\WebApplication4\bin\Debug\net7.0\SixLabors.Fonts.dll
+C:\Users\Rin\source\repos\WebApplication4\WebApplication4\bin\Debug\net7.0\System.IO.Packaging.dll
+C:\Users\Rin\source\repos\WebApplication4\WebApplication4\bin\Debug\net7.0\XLParser.dll
+D:\%UNIVER\Реінжиніринг програмного забезпечення\WebApplication4\WebApplication4\bin\Debug\net7.0\appsettings.Development.json
+D:\%UNIVER\Реінжиніринг програмного забезпечення\WebApplication4\WebApplication4\bin\Debug\net7.0\appsettings.json
+D:\%UNIVER\Реінжиніринг програмного забезпечення\WebApplication4\WebApplication4\bin\Debug\net7.0\WebApplication4.staticwebassets.runtime.json
+D:\%UNIVER\Реінжиніринг програмного забезпечення\WebApplication4\WebApplication4\bin\Debug\net7.0\WebApplication4.exe
+D:\%UNIVER\Реінжиніринг програмного забезпечення\WebApplication4\WebApplication4\bin\Debug\net7.0\WebApplication4.deps.json
+D:\%UNIVER\Реінжиніринг програмного забезпечення\WebApplication4\WebApplication4\bin\Debug\net7.0\WebApplication4.runtimeconfig.json
+D:\%UNIVER\Реінжиніринг програмного забезпечення\WebApplication4\WebApplication4\bin\Debug\net7.0\WebApplication4.dll
+D:\%UNIVER\Реінжиніринг програмного забезпечення\WebApplication4\WebApplication4\bin\Debug\net7.0\WebApplication4.pdb
+D:\%UNIVER\Реінжиніринг програмного забезпечення\WebApplication4\WebApplication4\bin\Debug\net7.0\WebApplication4.xml
+D:\%UNIVER\Реінжиніринг програмного забезпечення\WebApplication4\WebApplication4\bin\Debug\net7.0\refs\Microsoft.AspNetCore.Antiforgery.dll
+D:\%UNIVER\Реінжиніринг програмного забезпечення\WebApplication4\WebApplication4\bin\Debug\net7.0\refs\Microsoft.AspNetCore.Authentication.Abstractions.dll
+D:\%UNIVER\Реінжиніринг програмного забезпечення\WebApplication4\WebApplication4\bin\Debug\net7.0\refs\Microsoft.AspNetCore.Authentication.Cookies.dll
+D:\%UNIVER\Реінжиніринг програмного забезпечення\WebApplication4\WebApplication4\bin\Debug\net7.0\refs\Microsoft.AspNetCore.Authentication.Core.dll
+D:\%UNIVER\Реінжиніринг програмного забезпечення\WebApplication4\WebApplication4\bin\Debug\net7.0\refs\Microsoft.AspNetCore.Authentication.dll
+D:\%UNIVER\Реінжиніринг програмного забезпечення\WebApplication4\WebApplication4\bin\Debug\net7.0\refs\Microsoft.AspNetCore.Authentication.OAuth.dll
+D:\%UNIVER\Реінжиніринг програмного забезпечення\WebApplication4\WebApplication4\bin\Debug\net7.0\refs\Microsoft.AspNetCore.Authorization.dll
+D:\%UNIVER\Реінжиніринг програмного забезпечення\WebApplication4\WebApplication4\bin\Debug\net7.0\refs\Microsoft.AspNetCore.Authorization.Policy.dll
+D:\%UNIVER\Реінжиніринг програмного забезпечення\WebApplication4\WebApplication4\bin\Debug\net7.0\refs\Microsoft.AspNetCore.Components.Authorization.dll
+D:\%UNIVER\Реінжиніринг програмного забезпечення\WebApplication4\WebApplication4\bin\Debug\net7.0\refs\Microsoft.AspNetCore.Components.dll
+D:\%UNIVER\Реінжиніринг програмного забезпечення\WebApplication4\WebApplication4\bin\Debug\net7.0\refs\Microsoft.AspNetCore.Components.Forms.dll
+D:\%UNIVER\Реінжиніринг програмного забезпечення\WebApplication4\WebApplication4\bin\Debug\net7.0\refs\Microsoft.AspNetCore.Components.Server.dll
+D:\%UNIVER\Реінжиніринг програмного забезпечення\WebApplication4\WebApplication4\bin\Debug\net7.0\refs\Microsoft.AspNetCore.Components.Web.dll
+D:\%UNIVER\Реінжиніринг програмного забезпечення\WebApplication4\WebApplication4\bin\Debug\net7.0\refs\Microsoft.AspNetCore.Connections.Abstractions.dll
+D:\%UNIVER\Реінжиніринг програмного забезпечення\WebApplication4\WebApplication4\bin\Debug\net7.0\refs\Microsoft.AspNetCore.CookiePolicy.dll
+D:\%UNIVER\Реінжиніринг програмного забезпечення\WebApplication4\WebApplication4\bin\Debug\net7.0\refs\Microsoft.AspNetCore.Cors.dll
+D:\%UNIVER\Реінжиніринг програмного забезпечення\WebApplication4\WebApplication4\bin\Debug\net7.0\refs\Microsoft.AspNetCore.Cryptography.Internal.dll
+D:\%UNIVER\Реінжиніринг програмного забезпечення\WebApplication4\WebApplication4\bin\Debug\net7.0\refs\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+D:\%UNIVER\Реінжиніринг програмного забезпечення\WebApplication4\WebApplication4\bin\Debug\net7.0\refs\Microsoft.AspNetCore.DataProtection.Abstractions.dll
+D:\%UNIVER\Реінжиніринг програмного забезпечення\WebApplication4\WebApplication4\bin\Debug\net7.0\refs\Microsoft.AspNetCore.DataProtection.dll
+D:\%UNIVER\Реінжиніринг програмного забезпечення\WebApplication4\WebApplication4\bin\Debug\net7.0\refs\Microsoft.AspNetCore.DataProtection.Extensions.dll
+D:\%UNIVER\Реінжиніринг програмного забезпечення\WebApplication4\WebApplication4\bin\Debug\net7.0\refs\Microsoft.AspNetCore.Diagnostics.Abstractions.dll
+D:\%UNIVER\Реінжиніринг програмного забезпечення\WebApplication4\WebApplication4\bin\Debug\net7.0\refs\Microsoft.AspNetCore.Diagnostics.dll
+D:\%UNIVER\Реінжиніринг програмного забезпечення\WebApplication4\WebApplication4\bin\Debug\net7.0\refs\Microsoft.AspNetCore.Diagnostics.HealthChecks.dll
+D:\%UNIVER\Реінжиніринг програмного забезпечення\WebApplication4\WebApplication4\bin\Debug\net7.0\refs\Microsoft.AspNetCore.dll
+D:\%UNIVER\Реінжиніринг програмного забезпечення\WebApplication4\WebApplication4\bin\Debug\net7.0\refs\Microsoft.AspNetCore.HostFiltering.dll
+D:\%UNIVER\Реінжиніринг програмного забезпечення\WebApplication4\WebApplication4\bin\Debug\net7.0\refs\Microsoft.AspNetCore.Hosting.Abstractions.dll
+D:\%UNIVER\Реінжиніринг програмного забезпечення\WebApplication4\WebApplication4\bin\Debug\net7.0\refs\Microsoft.AspNetCore.Hosting.dll
+D:\%UNIVER\Реінжиніринг програмного забезпечення\WebApplication4\WebApplication4\bin\Debug\net7.0\refs\Microsoft.AspNetCore.Hosting.Server.Abstractions.dll
+D:\%UNIVER\Реінжиніринг програмного забезпечення\WebApplication4\WebApplication4\bin\Debug\net7.0\refs\Microsoft.AspNetCore.Html.Abstractions.dll
+D:\%UNIVER\Реінжиніринг програмного забезпечення\WebApplication4\WebApplication4\bin\Debug\net7.0\refs\Microsoft.AspNetCore.Http.Abstractions.dll
+D:\%UNIVER\Реінжиніринг програмного забезпечення\WebApplication4\WebApplication4\bin\Debug\net7.0\refs\Microsoft.AspNetCore.Http.Connections.Common.dll
+D:\%UNIVER\Реінжиніринг програмного забезпечення\WebApplication4\WebApplication4\bin\Debug\net7.0\refs\Microsoft.AspNetCore.Http.Connections.dll
+D:\%UNIVER\Реінжиніринг програмного забезпечення\WebApplication4\WebApplication4\bin\Debug\net7.0\refs\Microsoft.AspNetCore.Http.dll
+D:\%UNIVER\Реінжиніринг програмного забезпечення\WebApplication4\WebApplication4\bin\Debug\net7.0\refs\Microsoft.AspNetCore.Http.Extensions.dll
+D:\%UNIVER\Реінжиніринг програмного забезпечення\WebApplication4\WebApplication4\bin\Debug\net7.0\refs\Microsoft.AspNetCore.Http.Features.dll
+D:\%UNIVER\Реінжиніринг програмного забезпечення\WebApplication4\WebApplication4\bin\Debug\net7.0\refs\Microsoft.AspNetCore.Http.Results.dll
+D:\%UNIVER\Реінжиніринг програмного забезпечення\WebApplication4\WebApplication4\bin\Debug\net7.0\refs\Microsoft.AspNetCore.HttpLogging.dll
+D:\%UNIVER\Реінжиніринг програмного забезпечення\WebApplication4\WebApplication4\bin\Debug\net7.0\refs\Microsoft.AspNetCore.HttpOverrides.dll
+D:\%UNIVER\Реінжиніринг програмного забезпечення\WebApplication4\WebApplication4\bin\Debug\net7.0\refs\Microsoft.AspNetCore.HttpsPolicy.dll
+D:\%UNIVER\Реінжиніринг програмного забезпечення\WebApplication4\WebApplication4\bin\Debug\net7.0\refs\Microsoft.AspNetCore.Identity.dll
+D:\%UNIVER\Реінжиніринг програмного забезпечення\WebApplication4\WebApplication4\bin\Debug\net7.0\refs\Microsoft.AspNetCore.Localization.dll
+D:\%UNIVER\Реінжиніринг програмного забезпечення\WebApplication4\WebApplication4\bin\Debug\net7.0\refs\Microsoft.AspNetCore.Localization.Routing.dll
+D:\%UNIVER\Реінжиніринг програмного забезпечення\WebApplication4\WebApplication4\bin\Debug\net7.0\refs\Microsoft.AspNetCore.Metadata.dll
+D:\%UNIVER\Реінжиніринг програмного забезпечення\WebApplication4\WebApplication4\bin\Debug\net7.0\refs\Microsoft.AspNetCore.Mvc.Abstractions.dll
+D:\%UNIVER\Реінжиніринг програмного забезпечення\WebApplication4\WebApplication4\bin\Debug\net7.0\refs\Microsoft.AspNetCore.Mvc.ApiExplorer.dll
+D:\%UNIVER\Реінжиніринг програмного забезпечення\WebApplication4\WebApplication4\bin\Debug\net7.0\refs\Microsoft.AspNetCore.Mvc.Core.dll
+D:\%UNIVER\Реінжиніринг програмного забезпечення\WebApplication4\WebApplication4\bin\Debug\net7.0\refs\Microsoft.AspNetCore.Mvc.Cors.dll
+D:\%UNIVER\Реінжиніринг програмного забезпечення\WebApplication4\WebApplication4\bin\Debug\net7.0\refs\Microsoft.AspNetCore.Mvc.DataAnnotations.dll
+D:\%UNIVER\Реінжиніринг програмного забезпечення\WebApplication4\WebApplication4\bin\Debug\net7.0\refs\Microsoft.AspNetCore.Mvc.dll
+D:\%UNIVER\Реінжиніринг програмного забезпечення\WebApplication4\WebApplication4\bin\Debug\net7.0\refs\Microsoft.AspNetCore.Mvc.Formatters.Json.dll
+D:\%UNIVER\Реінжиніринг програмного забезпечення\WebApplication4\WebApplication4\bin\Debug\net7.0\refs\Microsoft.AspNetCore.Mvc.Formatters.Xml.dll
+D:\%UNIVER\Реінжиніринг програмного забезпечення\WebApplication4\WebApplication4\bin\Debug\net7.0\refs\Microsoft.AspNetCore.Mvc.Localization.dll
+D:\%UNIVER\Реінжиніринг програмного забезпечення\WebApplication4\WebApplication4\bin\Debug\net7.0\refs\Microsoft.AspNetCore.Mvc.Razor.dll
+D:\%UNIVER\Реінжиніринг програмного забезпечення\WebApplication4\WebApplication4\bin\Debug\net7.0\refs\Microsoft.AspNetCore.Mvc.RazorPages.dll
+D:\%UNIVER\Реінжиніринг програмного забезпечення\WebApplication4\WebApplication4\bin\Debug\net7.0\refs\Microsoft.AspNetCore.Mvc.TagHelpers.dll
+D:\%UNIVER\Реінжиніринг програмного забезпечення\WebApplication4\WebApplication4\bin\Debug\net7.0\refs\Microsoft.AspNetCore.Mvc.ViewFeatures.dll
+D:\%UNIVER\Реінжиніринг програмного забезпечення\WebApplication4\WebApplication4\bin\Debug\net7.0\refs\Microsoft.AspNetCore.OutputCaching.dll
+D:\%UNIVER\Реінжиніринг програмного забезпечення\WebApplication4\WebApplication4\bin\Debug\net7.0\refs\Microsoft.AspNetCore.RateLimiting.dll
+D:\%UNIVER\Реінжиніринг програмного забезпечення\WebApplication4\WebApplication4\bin\Debug\net7.0\refs\Microsoft.AspNetCore.Razor.dll
+D:\%UNIVER\Реінжиніринг програмного забезпечення\WebApplication4\WebApplication4\bin\Debug\net7.0\refs\Microsoft.AspNetCore.Razor.Runtime.dll
+D:\%UNIVER\Реінжиніринг програмного забезпечення\WebApplication4\WebApplication4\bin\Debug\net7.0\refs\Microsoft.AspNetCore.RequestDecompression.dll
+D:\%UNIVER\Реінжиніринг програмного забезпечення\WebApplication4\WebApplication4\bin\Debug\net7.0\refs\Microsoft.AspNetCore.ResponseCaching.Abstractions.dll
+D:\%UNIVER\Реінжиніринг програмного забезпечення\WebApplication4\WebApplication4\bin\Debug\net7.0\refs\Microsoft.AspNetCore.ResponseCaching.dll
+D:\%UNIVER\Реінжиніринг програмного забезпечення\WebApplication4\WebApplication4\bin\Debug\net7.0\refs\Microsoft.AspNetCore.ResponseCompression.dll
+D:\%UNIVER\Реінжиніринг програмного забезпечення\WebApplication4\WebApplication4\bin\Debug\net7.0\refs\Microsoft.AspNetCore.Rewrite.dll
+D:\%UNIVER\Реінжиніринг програмного забезпечення\WebApplication4\WebApplication4\bin\Debug\net7.0\refs\Microsoft.AspNetCore.Routing.Abstractions.dll
+D:\%UNIVER\Реінжиніринг програмного забезпечення\WebApplication4\WebApplication4\bin\Debug\net7.0\refs\Microsoft.AspNetCore.Routing.dll
+D:\%UNIVER\Реінжиніринг програмного забезпечення\WebApplication4\WebApplication4\bin\Debug\net7.0\refs\Microsoft.AspNetCore.Server.HttpSys.dll
+D:\%UNIVER\Реінжиніринг програмного забезпечення\WebApplication4\WebApplication4\bin\Debug\net7.0\refs\Microsoft.AspNetCore.Server.IIS.dll
+D:\%UNIVER\Реінжиніринг програмного забезпечення\WebApplication4\WebApplication4\bin\Debug\net7.0\refs\Microsoft.AspNetCore.Server.IISIntegration.dll
+D:\%UNIVER\Реінжиніринг програмного забезпечення\WebApplication4\WebApplication4\bin\Debug\net7.0\refs\Microsoft.AspNetCore.Server.Kestrel.Core.dll
+D:\%UNIVER\Реінжиніринг програмного забезпечення\WebApplication4\WebApplication4\bin\Debug\net7.0\refs\Microsoft.AspNetCore.Server.Kestrel.dll
+D:\%UNIVER\Реінжиніринг програмного забезпечення\WebApplication4\WebApplication4\bin\Debug\net7.0\refs\Microsoft.AspNetCore.Server.Kestrel.Transport.Quic.dll
+D:\%UNIVER\Реінжиніринг програмного забезпечення\WebApplication4\WebApplication4\bin\Debug\net7.0\refs\Microsoft.AspNetCore.Server.Kestrel.Transport.Sockets.dll
+D:\%UNIVER\Реінжиніринг програмного забезпечення\WebApplication4\WebApplication4\bin\Debug\net7.0\refs\Microsoft.AspNetCore.Session.dll
+D:\%UNIVER\Реінжиніринг програмного забезпечення\WebApplication4\WebApplication4\bin\Debug\net7.0\refs\Microsoft.AspNetCore.SignalR.Common.dll
+D:\%UNIVER\Реінжиніринг програмного забезпечення\WebApplication4\WebApplication4\bin\Debug\net7.0\refs\Microsoft.AspNetCore.SignalR.Core.dll
+D:\%UNIVER\Реінжиніринг програмного забезпечення\WebApplication4\WebApplication4\bin\Debug\net7.0\refs\Microsoft.AspNetCore.SignalR.dll
+D:\%UNIVER\Реінжиніринг програмного забезпечення\WebApplication4\WebApplication4\bin\Debug\net7.0\refs\Microsoft.AspNetCore.SignalR.Protocols.Json.dll
+D:\%UNIVER\Реінжиніринг програмного забезпечення\WebApplication4\WebApplication4\bin\Debug\net7.0\refs\Microsoft.AspNetCore.StaticFiles.dll
+D:\%UNIVER\Реінжиніринг програмного забезпечення\WebApplication4\WebApplication4\bin\Debug\net7.0\refs\Microsoft.AspNetCore.WebSockets.dll
+D:\%UNIVER\Реінжиніринг програмного забезпечення\WebApplication4\WebApplication4\bin\Debug\net7.0\refs\Microsoft.AspNetCore.WebUtilities.dll
+D:\%UNIVER\Реінжиніринг програмного забезпечення\WebApplication4\WebApplication4\bin\Debug\net7.0\refs\Microsoft.CSharp.dll
+D:\%UNIVER\Реінжиніринг програмного забезпечення\WebApplication4\WebApplication4\bin\Debug\net7.0\refs\Microsoft.Extensions.Caching.Abstractions.dll
+D:\%UNIVER\Реінжиніринг програмного забезпечення\WebApplication4\WebApplication4\bin\Debug\net7.0\refs\Microsoft.Extensions.Caching.Memory.dll
+D:\%UNIVER\Реінжиніринг програмного забезпечення\WebApplication4\WebApplication4\bin\Debug\net7.0\refs\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\%UNIVER\Реінжиніринг програмного забезпечення\WebApplication4\WebApplication4\bin\Debug\net7.0\refs\Microsoft.Extensions.Configuration.Binder.dll
+D:\%UNIVER\Реінжиніринг програмного забезпечення\WebApplication4\WebApplication4\bin\Debug\net7.0\refs\Microsoft.Extensions.Configuration.CommandLine.dll
+D:\%UNIVER\Реінжиніринг програмного забезпечення\WebApplication4\WebApplication4\bin\Debug\net7.0\refs\Microsoft.Extensions.Configuration.dll
+D:\%UNIVER\Реінжиніринг програмного забезпечення\WebApplication4\WebApplication4\bin\Debug\net7.0\refs\Microsoft.Extensions.Configuration.EnvironmentVariables.dll
+D:\%UNIVER\Реінжиніринг програмного забезпечення\WebApplication4\WebApplication4\bin\Debug\net7.0\refs\Microsoft.Extensions.Configuration.FileExtensions.dll
+D:\%UNIVER\Реінжиніринг програмного забезпечення\WebApplication4\WebApplication4\bin\Debug\net7.0\refs\Microsoft.Extensions.Configuration.Ini.dll
+D:\%UNIVER\Реінжиніринг програмного забезпечення\WebApplication4\WebApplication4\bin\Debug\net7.0\refs\Microsoft.Extensions.Configuration.Json.dll
+D:\%UNIVER\Реінжиніринг програмного забезпечення\WebApplication4\WebApplication4\bin\Debug\net7.0\refs\Microsoft.Extensions.Configuration.KeyPerFile.dll
+D:\%UNIVER\Реінжиніринг програмного забезпечення\WebApplication4\WebApplication4\bin\Debug\net7.0\refs\Microsoft.Extensions.Configuration.UserSecrets.dll
+D:\%UNIVER\Реінжиніринг програмного забезпечення\WebApplication4\WebApplication4\bin\Debug\net7.0\refs\Microsoft.Extensions.Configuration.Xml.dll
+D:\%UNIVER\Реінжиніринг програмного забезпечення\WebApplication4\WebApplication4\bin\Debug\net7.0\refs\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\%UNIVER\Реінжиніринг програмного забезпечення\WebApplication4\WebApplication4\bin\Debug\net7.0\refs\Microsoft.Extensions.DependencyInjection.dll
+D:\%UNIVER\Реінжиніринг програмного забезпечення\WebApplication4\WebApplication4\bin\Debug\net7.0\refs\Microsoft.Extensions.Diagnostics.HealthChecks.Abstractions.dll
+D:\%UNIVER\Реінжиніринг програмного забезпечення\WebApplication4\WebApplication4\bin\Debug\net7.0\refs\Microsoft.Extensions.Diagnostics.HealthChecks.dll
+D:\%UNIVER\Реінжиніринг програмного забезпечення\WebApplication4\WebApplication4\bin\Debug\net7.0\refs\Microsoft.Extensions.Features.dll
+D:\%UNIVER\Реінжиніринг програмного забезпечення\WebApplication4\WebApplication4\bin\Debug\net7.0\refs\Microsoft.Extensions.FileProviders.Abstractions.dll
+D:\%UNIVER\Реінжиніринг програмного забезпечення\WebApplication4\WebApplication4\bin\Debug\net7.0\refs\Microsoft.Extensions.FileProviders.Composite.dll
+D:\%UNIVER\Реінжиніринг програмного забезпечення\WebApplication4\WebApplication4\bin\Debug\net7.0\refs\Microsoft.Extensions.FileProviders.Embedded.dll
+D:\%UNIVER\Реінжиніринг програмного забезпечення\WebApplication4\WebApplication4\bin\Debug\net7.0\refs\Microsoft.Extensions.FileProviders.Physical.dll
+D:\%UNIVER\Реінжиніринг програмного забезпечення\WebApplication4\WebApplication4\bin\Debug\net7.0\refs\Microsoft.Extensions.FileSystemGlobbing.dll
+D:\%UNIVER\Реінжиніринг програмного забезпечення\WebApplication4\WebApplication4\bin\Debug\net7.0\refs\Microsoft.Extensions.Hosting.Abstractions.dll
+D:\%UNIVER\Реінжиніринг програмного забезпечення\WebApplication4\WebApplication4\bin\Debug\net7.0\refs\Microsoft.Extensions.Hosting.dll
+D:\%UNIVER\Реінжиніринг програмного забезпечення\WebApplication4\WebApplication4\bin\Debug\net7.0\refs\Microsoft.Extensions.Http.dll
+D:\%UNIVER\Реінжиніринг програмного забезпечення\WebApplication4\WebApplication4\bin\Debug\net7.0\refs\Microsoft.Extensions.Identity.Core.dll
+D:\%UNIVER\Реінжиніринг програмного забезпечення\WebApplication4\WebApplication4\bin\Debug\net7.0\refs\Microsoft.Extensions.Identity.Stores.dll
+D:\%UNIVER\Реінжиніринг програмного забезпечення\WebApplication4\WebApplication4\bin\Debug\net7.0\refs\Microsoft.Extensions.Localization.Abstractions.dll
+D:\%UNIVER\Реінжиніринг програмного забезпечення\WebApplication4\WebApplication4\bin\Debug\net7.0\refs\Microsoft.Extensions.Localization.dll
+D:\%UNIVER\Реінжиніринг програмного забезпечення\WebApplication4\WebApplication4\bin\Debug\net7.0\refs\Microsoft.Extensions.Logging.Abstractions.dll
+D:\%UNIVER\Реінжиніринг програмного забезпечення\WebApplication4\WebApplication4\bin\Debug\net7.0\refs\Microsoft.Extensions.Logging.Configuration.dll
+D:\%UNIVER\Реінжиніринг програмного забезпечення\WebApplication4\WebApplication4\bin\Debug\net7.0\refs\Microsoft.Extensions.Logging.Console.dll
+D:\%UNIVER\Реінжиніринг програмного забезпечення\WebApplication4\WebApplication4\bin\Debug\net7.0\refs\Microsoft.Extensions.Logging.Debug.dll
+D:\%UNIVER\Реінжиніринг програмного забезпечення\WebApplication4\WebApplication4\bin\Debug\net7.0\refs\Microsoft.Extensions.Logging.dll
+D:\%UNIVER\Реінжиніринг програмного забезпечення\WebApplication4\WebApplication4\bin\Debug\net7.0\refs\Microsoft.Extensions.Logging.EventLog.dll
+D:\%UNIVER\Реінжиніринг програмного забезпечення\WebApplication4\WebApplication4\bin\Debug\net7.0\refs\Microsoft.Extensions.Logging.EventSource.dll
+D:\%UNIVER\Реінжиніринг програмного забезпечення\WebApplication4\WebApplication4\bin\Debug\net7.0\refs\Microsoft.Extensions.Logging.TraceSource.dll
+D:\%UNIVER\Реінжиніринг програмного забезпечення\WebApplication4\WebApplication4\bin\Debug\net7.0\refs\Microsoft.Extensions.ObjectPool.dll
+D:\%UNIVER\Реінжиніринг програмного забезпечення\WebApplication4\WebApplication4\bin\Debug\net7.0\refs\Microsoft.Extensions.Options.ConfigurationExtensions.dll
+D:\%UNIVER\Реінжиніринг програмного забезпечення\WebApplication4\WebApplication4\bin\Debug\net7.0\refs\Microsoft.Extensions.Options.DataAnnotations.dll
+D:\%UNIVER\Реінжиніринг програмного забезпечення\WebApplication4\WebApplication4\bin\Debug\net7.0\refs\Microsoft.Extensions.Options.dll
+D:\%UNIVER\Реінжиніринг програмного забезпечення\WebApplication4\WebApplication4\bin\Debug\net7.0\refs\Microsoft.Extensions.Primitives.dll
+D:\%UNIVER\Реінжиніринг програмного забезпечення\WebApplication4\WebApplication4\bin\Debug\net7.0\refs\Microsoft.Extensions.WebEncoders.dll
+D:\%UNIVER\Реінжиніринг програмного забезпечення\WebApplication4\WebApplication4\bin\Debug\net7.0\refs\Microsoft.JSInterop.dll
+D:\%UNIVER\Реінжиніринг програмного забезпечення\WebApplication4\WebApplication4\bin\Debug\net7.0\refs\Microsoft.Net.Http.Headers.dll
+D:\%UNIVER\Реінжиніринг програмного забезпечення\WebApplication4\WebApplication4\bin\Debug\net7.0\refs\Microsoft.VisualBasic.Core.dll
+D:\%UNIVER\Реінжиніринг програмного забезпечення\WebApplication4\WebApplication4\bin\Debug\net7.0\refs\Microsoft.VisualBasic.dll
+D:\%UNIVER\Реінжиніринг програмного забезпечення\WebApplication4\WebApplication4\bin\Debug\net7.0\refs\Microsoft.Win32.Primitives.dll
+D:\%UNIVER\Реінжиніринг програмного забезпечення\WebApplication4\WebApplication4\bin\Debug\net7.0\refs\Microsoft.Win32.Registry.dll
+D:\%UNIVER\Реінжиніринг програмного забезпечення\WebApplication4\WebApplication4\bin\Debug\net7.0\refs\mscorlib.dll
+D:\%UNIVER\Реінжиніринг програмного забезпечення\WebApplication4\WebApplication4\bin\Debug\net7.0\refs\netstandard.dll
+D:\%UNIVER\Реінжиніринг програмного забезпечення\WebApplication4\WebApplication4\bin\Debug\net7.0\refs\System.AppContext.dll
+D:\%UNIVER\Реінжиніринг програмного забезпечення\WebApplication4\WebApplication4\bin\Debug\net7.0\refs\System.Buffers.dll
+D:\%UNIVER\Реінжиніринг програмного забезпечення\WebApplication4\WebApplication4\bin\Debug\net7.0\refs\System.Collections.Concurrent.dll
+D:\%UNIVER\Реінжиніринг програмного забезпечення\WebApplication4\WebApplication4\bin\Debug\net7.0\refs\System.Collections.dll
+D:\%UNIVER\Реінжиніринг програмного забезпечення\WebApplication4\WebApplication4\bin\Debug\net7.0\refs\System.Collections.Immutable.dll
+D:\%UNIVER\Реінжиніринг програмного забезпечення\WebApplication4\WebApplication4\bin\Debug\net7.0\refs\System.Collections.NonGeneric.dll
+D:\%UNIVER\Реінжиніринг програмного забезпечення\WebApplication4\WebApplication4\bin\Debug\net7.0\refs\System.Collections.Specialized.dll
+D:\%UNIVER\Реінжиніринг програмного забезпечення\WebApplication4\WebApplication4\bin\Debug\net7.0\refs\System.ComponentModel.Annotations.dll
+D:\%UNIVER\Реінжиніринг програмного забезпечення\WebApplication4\WebApplication4\bin\Debug\net7.0\refs\System.ComponentModel.DataAnnotations.dll
+D:\%UNIVER\Реінжиніринг програмного забезпечення\WebApplication4\WebApplication4\bin\Debug\net7.0\refs\System.ComponentModel.dll
+D:\%UNIVER\Реінжиніринг програмного забезпечення\WebApplication4\WebApplication4\bin\Debug\net7.0\refs\System.ComponentModel.EventBasedAsync.dll
+D:\%UNIVER\Реінжиніринг програмного забезпечення\WebApplication4\WebApplication4\bin\Debug\net7.0\refs\System.ComponentModel.Primitives.dll
+D:\%UNIVER\Реінжиніринг програмного забезпечення\WebApplication4\WebApplication4\bin\Debug\net7.0\refs\System.ComponentModel.TypeConverter.dll
+D:\%UNIVER\Реінжиніринг програмного забезпечення\WebApplication4\WebApplication4\bin\Debug\net7.0\refs\System.Configuration.dll
+D:\%UNIVER\Реінжиніринг програмного забезпечення\WebApplication4\WebApplication4\bin\Debug\net7.0\refs\System.Console.dll
+D:\%UNIVER\Реінжиніринг програмного забезпечення\WebApplication4\WebApplication4\bin\Debug\net7.0\refs\System.Core.dll
+D:\%UNIVER\Реінжиніринг програмного забезпечення\WebApplication4\WebApplication4\bin\Debug\net7.0\refs\System.Data.Common.dll
+D:\%UNIVER\Реінжиніринг програмного забезпечення\WebApplication4\WebApplication4\bin\Debug\net7.0\refs\System.Data.DataSetExtensions.dll
+D:\%UNIVER\Реінжиніринг програмного забезпечення\WebApplication4\WebApplication4\bin\Debug\net7.0\refs\System.Data.dll
+D:\%UNIVER\Реінжиніринг програмного забезпечення\WebApplication4\WebApplication4\bin\Debug\net7.0\refs\System.Diagnostics.Contracts.dll
+D:\%UNIVER\Реінжиніринг програмного забезпечення\WebApplication4\WebApplication4\bin\Debug\net7.0\refs\System.Diagnostics.Debug.dll
+D:\%UNIVER\Реінжиніринг програмного забезпечення\WebApplication4\WebApplication4\bin\Debug\net7.0\refs\System.Diagnostics.DiagnosticSource.dll
+D:\%UNIVER\Реінжиніринг програмного забезпечення\WebApplication4\WebApplication4\bin\Debug\net7.0\refs\System.Diagnostics.EventLog.dll
+D:\%UNIVER\Реінжиніринг програмного забезпечення\WebApplication4\WebApplication4\bin\Debug\net7.0\refs\System.Diagnostics.FileVersionInfo.dll
+D:\%UNIVER\Реінжиніринг програмного забезпечення\WebApplication4\WebApplication4\bin\Debug\net7.0\refs\System.Diagnostics.Process.dll
+D:\%UNIVER\Реінжиніринг програмного забезпечення\WebApplication4\WebApplication4\bin\Debug\net7.0\refs\System.Diagnostics.StackTrace.dll
+D:\%UNIVER\Реінжиніринг програмного забезпечення\WebApplication4\WebApplication4\bin\Debug\net7.0\refs\System.Diagnostics.TextWriterTraceListener.dll
+D:\%UNIVER\Реінжиніринг програмного забезпечення\WebApplication4\WebApplication4\bin\Debug\net7.0\refs\System.Diagnostics.Tools.dll
+D:\%UNIVER\Реінжиніринг програмного забезпечення\WebApplication4\WebApplication4\bin\Debug\net7.0\refs\System.Diagnostics.TraceSource.dll
+D:\%UNIVER\Реінжиніринг програмного забезпечення\WebApplication4\WebApplication4\bin\Debug\net7.0\refs\System.Diagnostics.Tracing.dll
+D:\%UNIVER\Реінжиніринг програмного забезпечення\WebApplication4\WebApplication4\bin\Debug\net7.0\refs\System.dll
+D:\%UNIVER\Реінжиніринг програмного забезпечення\WebApplication4\WebApplication4\bin\Debug\net7.0\refs\System.Drawing.dll
+D:\%UNIVER\Реінжиніринг програмного забезпечення\WebApplication4\WebApplication4\bin\Debug\net7.0\refs\System.Drawing.Primitives.dll
+D:\%UNIVER\Реінжиніринг програмного забезпечення\WebApplication4\WebApplication4\bin\Debug\net7.0\refs\System.Dynamic.Runtime.dll
+D:\%UNIVER\Реінжиніринг програмного забезпечення\WebApplication4\WebApplication4\bin\Debug\net7.0\refs\System.Formats.Asn1.dll
+D:\%UNIVER\Реінжиніринг програмного забезпечення\WebApplication4\WebApplication4\bin\Debug\net7.0\refs\System.Formats.Tar.dll
+D:\%UNIVER\Реінжиніринг програмного забезпечення\WebApplication4\WebApplication4\bin\Debug\net7.0\refs\System.Globalization.Calendars.dll
+D:\%UNIVER\Реінжиніринг програмного забезпечення\WebApplication4\WebApplication4\bin\Debug\net7.0\refs\System.Globalization.dll
+D:\%UNIVER\Реінжиніринг програмного забезпечення\WebApplication4\WebApplication4\bin\Debug\net7.0\refs\System.Globalization.Extensions.dll
+D:\%UNIVER\Реінжиніринг програмного забезпечення\WebApplication4\WebApplication4\bin\Debug\net7.0\refs\System.IO.Compression.Brotli.dll
+D:\%UNIVER\Реінжиніринг програмного забезпечення\WebApplication4\WebApplication4\bin\Debug\net7.0\refs\System.IO.Compression.dll
+D:\%UNIVER\Реінжиніринг програмного забезпечення\WebApplication4\WebApplication4\bin\Debug\net7.0\refs\System.IO.Compression.FileSystem.dll
+D:\%UNIVER\Реінжиніринг програмного забезпечення\WebApplication4\WebApplication4\bin\Debug\net7.0\refs\System.IO.Compression.ZipFile.dll
+D:\%UNIVER\Реінжиніринг програмного забезпечення\WebApplication4\WebApplication4\bin\Debug\net7.0\refs\System.IO.dll
+D:\%UNIVER\Реінжиніринг програмного забезпечення\WebApplication4\WebApplication4\bin\Debug\net7.0\refs\System.IO.FileSystem.AccessControl.dll
+D:\%UNIVER\Реінжиніринг програмного забезпечення\WebApplication4\WebApplication4\bin\Debug\net7.0\refs\System.IO.FileSystem.dll
+D:\%UNIVER\Реінжиніринг програмного забезпечення\WebApplication4\WebApplication4\bin\Debug\net7.0\refs\System.IO.FileSystem.DriveInfo.dll
+D:\%UNIVER\Реінжиніринг програмного забезпечення\WebApplication4\WebApplication4\bin\Debug\net7.0\refs\System.IO.FileSystem.Primitives.dll
+D:\%UNIVER\Реінжиніринг програмного забезпечення\WebApplication4\WebApplication4\bin\Debug\net7.0\refs\System.IO.FileSystem.Watcher.dll
+D:\%UNIVER\Реінжиніринг програмного забезпечення\WebApplication4\WebApplication4\bin\Debug\net7.0\refs\System.IO.IsolatedStorage.dll
+D:\%UNIVER\Реінжиніринг програмного забезпечення\WebApplication4\WebApplication4\bin\Debug\net7.0\refs\System.IO.MemoryMappedFiles.dll
+D:\%UNIVER\Реінжиніринг програмного забезпечення\WebApplication4\WebApplication4\bin\Debug\net7.0\refs\System.IO.Pipelines.dll
+D:\%UNIVER\Реінжиніринг програмного забезпечення\WebApplication4\WebApplication4\bin\Debug\net7.0\refs\System.IO.Pipes.AccessControl.dll
+D:\%UNIVER\Реінжиніринг програмного забезпечення\WebApplication4\WebApplication4\bin\Debug\net7.0\refs\System.IO.Pipes.dll
+D:\%UNIVER\Реінжиніринг програмного забезпечення\WebApplication4\WebApplication4\bin\Debug\net7.0\refs\System.IO.UnmanagedMemoryStream.dll
+D:\%UNIVER\Реінжиніринг програмного забезпечення\WebApplication4\WebApplication4\bin\Debug\net7.0\refs\System.Linq.dll
+D:\%UNIVER\Реінжиніринг програмного забезпечення\WebApplication4\WebApplication4\bin\Debug\net7.0\refs\System.Linq.Expressions.dll
+D:\%UNIVER\Реінжиніринг програмного забезпечення\WebApplication4\WebApplication4\bin\Debug\net7.0\refs\System.Linq.Parallel.dll
+D:\%UNIVER\Реінжиніринг програмного забезпечення\WebApplication4\WebApplication4\bin\Debug\net7.0\refs\System.Linq.Queryable.dll
+D:\%UNIVER\Реінжиніринг програмного забезпечення\WebApplication4\WebApplication4\bin\Debug\net7.0\refs\System.Memory.dll
+D:\%UNIVER\Реінжиніринг програмного забезпечення\WebApplication4\WebApplication4\bin\Debug\net7.0\refs\System.Net.dll
+D:\%UNIVER\Реінжиніринг програмного забезпечення\WebApplication4\WebApplication4\bin\Debug\net7.0\refs\System.Net.Http.dll
+D:\%UNIVER\Реінжиніринг програмного забезпечення\WebApplication4\WebApplication4\bin\Debug\net7.0\refs\System.Net.Http.Json.dll
+D:\%UNIVER\Реінжиніринг програмного забезпечення\WebApplication4\WebApplication4\bin\Debug\net7.0\refs\System.Net.HttpListener.dll
+D:\%UNIVER\Реінжиніринг програмного забезпечення\WebApplication4\WebApplication4\bin\Debug\net7.0\refs\System.Net.Mail.dll
+D:\%UNIVER\Реінжиніринг програмного забезпечення\WebApplication4\WebApplication4\bin\Debug\net7.0\refs\System.Net.NameResolution.dll
+D:\%UNIVER\Реінжиніринг програмного забезпечення\WebApplication4\WebApplication4\bin\Debug\net7.0\refs\System.Net.NetworkInformation.dll
+D:\%UNIVER\Реінжиніринг програмного забезпечення\WebApplication4\WebApplication4\bin\Debug\net7.0\refs\System.Net.Ping.dll
+D:\%UNIVER\Реінжиніринг програмного забезпечення\WebApplication4\WebApplication4\bin\Debug\net7.0\refs\System.Net.Primitives.dll
+D:\%UNIVER\Реінжиніринг програмного забезпечення\WebApplication4\WebApplication4\bin\Debug\net7.0\refs\System.Net.Quic.dll
+D:\%UNIVER\Реінжиніринг програмного забезпечення\WebApplication4\WebApplication4\bin\Debug\net7.0\refs\System.Net.Requests.dll
+D:\%UNIVER\Реінжиніринг програмного забезпечення\WebApplication4\WebApplication4\bin\Debug\net7.0\refs\System.Net.Security.dll
+D:\%UNIVER\Реінжиніринг програмного забезпечення\WebApplication4\WebApplication4\bin\Debug\net7.0\refs\System.Net.ServicePoint.dll
+D:\%UNIVER\Реінжиніринг програмного забезпечення\WebApplication4\WebApplication4\bin\Debug\net7.0\refs\System.Net.Sockets.dll
+D:\%UNIVER\Реінжиніринг програмного забезпечення\WebApplication4\WebApplication4\bin\Debug\net7.0\refs\System.Net.WebClient.dll
+D:\%UNIVER\Реінжиніринг програмного забезпечення\WebApplication4\WebApplication4\bin\Debug\net7.0\refs\System.Net.WebHeaderCollection.dll
+D:\%UNIVER\Реінжиніринг програмного забезпечення\WebApplication4\WebApplication4\bin\Debug\net7.0\refs\System.Net.WebProxy.dll
+D:\%UNIVER\Реінжиніринг програмного забезпечення\WebApplication4\WebApplication4\bin\Debug\net7.0\refs\System.Net.WebSockets.Client.dll
+D:\%UNIVER\Реінжиніринг програмного забезпечення\WebApplication4\WebApplication4\bin\Debug\net7.0\refs\System.Net.WebSockets.dll
+D:\%UNIVER\Реінжиніринг програмного забезпечення\WebApplication4\WebApplication4\bin\Debug\net7.0\refs\System.Numerics.dll
+D:\%UNIVER\Реінжиніринг програмного забезпечення\WebApplication4\WebApplication4\bin\Debug\net7.0\refs\System.Numerics.Vectors.dll
+D:\%UNIVER\Реінжиніринг програмного забезпечення\WebApplication4\WebApplication4\bin\Debug\net7.0\refs\System.ObjectModel.dll
+D:\%UNIVER\Реінжиніринг програмного забезпечення\WebApplication4\WebApplication4\bin\Debug\net7.0\refs\System.Reflection.DispatchProxy.dll
+D:\%UNIVER\Реінжиніринг програмного забезпечення\WebApplication4\WebApplication4\bin\Debug\net7.0\refs\System.Reflection.dll
+D:\%UNIVER\Реінжиніринг програмного забезпечення\WebApplication4\WebApplication4\bin\Debug\net7.0\refs\System.Reflection.Emit.dll
+D:\%UNIVER\Реінжиніринг програмного забезпечення\WebApplication4\WebApplication4\bin\Debug\net7.0\refs\System.Reflection.Emit.ILGeneration.dll
+D:\%UNIVER\Реінжиніринг програмного забезпечення\WebApplication4\WebApplication4\bin\Debug\net7.0\refs\System.Reflection.Emit.Lightweight.dll
+D:\%UNIVER\Реінжиніринг програмного забезпечення\WebApplication4\WebApplication4\bin\Debug\net7.0\refs\System.Reflection.Extensions.dll
+D:\%UNIVER\Реінжиніринг програмного забезпечення\WebApplication4\WebApplication4\bin\Debug\net7.0\refs\System.Reflection.Metadata.dll
+D:\%UNIVER\Реінжиніринг програмного забезпечення\WebApplication4\WebApplication4\bin\Debug\net7.0\refs\System.Reflection.Primitives.dll
+D:\%UNIVER\Реінжиніринг програмного забезпечення\WebApplication4\WebApplication4\bin\Debug\net7.0\refs\System.Reflection.TypeExtensions.dll
+D:\%UNIVER\Реінжиніринг програмного забезпечення\WebApplication4\WebApplication4\bin\Debug\net7.0\refs\System.Resources.Reader.dll
+D:\%UNIVER\Реінжиніринг програмного забезпечення\WebApplication4\WebApplication4\bin\Debug\net7.0\refs\System.Resources.ResourceManager.dll
+D:\%UNIVER\Реінжиніринг програмного забезпечення\WebApplication4\WebApplication4\bin\Debug\net7.0\refs\System.Resources.Writer.dll
+D:\%UNIVER\Реінжиніринг програмного забезпечення\WebApplication4\WebApplication4\bin\Debug\net7.0\refs\System.Runtime.CompilerServices.Unsafe.dll
+D:\%UNIVER\Реінжиніринг програмного забезпечення\WebApplication4\WebApplication4\bin\Debug\net7.0\refs\System.Runtime.CompilerServices.VisualC.dll
+D:\%UNIVER\Реінжиніринг програмного забезпечення\WebApplication4\WebApplication4\bin\Debug\net7.0\refs\System.Runtime.dll
+D:\%UNIVER\Реінжиніринг програмного забезпечення\WebApplication4\WebApplication4\bin\Debug\net7.0\refs\System.Runtime.Extensions.dll
+D:\%UNIVER\Реінжиніринг програмного забезпечення\WebApplication4\WebApplication4\bin\Debug\net7.0\refs\System.Runtime.Handles.dll
+D:\%UNIVER\Реінжиніринг програмного забезпечення\WebApplication4\WebApplication4\bin\Debug\net7.0\refs\System.Runtime.InteropServices.dll
+D:\%UNIVER\Реінжиніринг програмного забезпечення\WebApplication4\WebApplication4\bin\Debug\net7.0\refs\System.Runtime.InteropServices.JavaScript.dll
+D:\%UNIVER\Реінжиніринг програмного забезпечення\WebApplication4\WebApplication4\bin\Debug\net7.0\refs\System.Runtime.InteropServices.RuntimeInformation.dll
+D:\%UNIVER\Реінжиніринг програмного забезпечення\WebApplication4\WebApplication4\bin\Debug\net7.0\refs\System.Runtime.Intrinsics.dll
+D:\%UNIVER\Реінжиніринг програмного забезпечення\WebApplication4\WebApplication4\bin\Debug\net7.0\refs\System.Runtime.Loader.dll
+D:\%UNIVER\Реінжиніринг програмного забезпечення\WebApplication4\WebApplication4\bin\Debug\net7.0\refs\System.Runtime.Numerics.dll
+D:\%UNIVER\Реінжиніринг програмного забезпечення\WebApplication4\WebApplication4\bin\Debug\net7.0\refs\System.Runtime.Serialization.dll
+D:\%UNIVER\Реінжиніринг програмного забезпечення\WebApplication4\WebApplication4\bin\Debug\net7.0\refs\System.Runtime.Serialization.Formatters.dll
+D:\%UNIVER\Реінжиніринг програмного забезпечення\WebApplication4\WebApplication4\bin\Debug\net7.0\refs\System.Runtime.Serialization.Json.dll
+D:\%UNIVER\Реінжиніринг програмного забезпечення\WebApplication4\WebApplication4\bin\Debug\net7.0\refs\System.Runtime.Serialization.Primitives.dll
+D:\%UNIVER\Реінжиніринг програмного забезпечення\WebApplication4\WebApplication4\bin\Debug\net7.0\refs\System.Runtime.Serialization.Xml.dll
+D:\%UNIVER\Реінжиніринг програмного забезпечення\WebApplication4\WebApplication4\bin\Debug\net7.0\refs\System.Security.AccessControl.dll
+D:\%UNIVER\Реінжиніринг програмного забезпечення\WebApplication4\WebApplication4\bin\Debug\net7.0\refs\System.Security.Claims.dll
+D:\%UNIVER\Реінжиніринг програмного забезпечення\WebApplication4\WebApplication4\bin\Debug\net7.0\refs\System.Security.Cryptography.Algorithms.dll
+D:\%UNIVER\Реінжиніринг програмного забезпечення\WebApplication4\WebApplication4\bin\Debug\net7.0\refs\System.Security.Cryptography.Cng.dll
+D:\%UNIVER\Реінжиніринг програмного забезпечення\WebApplication4\WebApplication4\bin\Debug\net7.0\refs\System.Security.Cryptography.Csp.dll
+D:\%UNIVER\Реінжиніринг програмного забезпечення\WebApplication4\WebApplication4\bin\Debug\net7.0\refs\System.Security.Cryptography.dll
+D:\%UNIVER\Реінжиніринг програмного забезпечення\WebApplication4\WebApplication4\bin\Debug\net7.0\refs\System.Security.Cryptography.Encoding.dll
+D:\%UNIVER\Реінжиніринг програмного забезпечення\WebApplication4\WebApplication4\bin\Debug\net7.0\refs\System.Security.Cryptography.OpenSsl.dll
+D:\%UNIVER\Реінжиніринг програмного забезпечення\WebApplication4\WebApplication4\bin\Debug\net7.0\refs\System.Security.Cryptography.Primitives.dll
+D:\%UNIVER\Реінжиніринг програмного забезпечення\WebApplication4\WebApplication4\bin\Debug\net7.0\refs\System.Security.Cryptography.X509Certificates.dll
+D:\%UNIVER\Реінжиніринг програмного забезпечення\WebApplication4\WebApplication4\bin\Debug\net7.0\refs\System.Security.Cryptography.Xml.dll
+D:\%UNIVER\Реінжиніринг програмного забезпечення\WebApplication4\WebApplication4\bin\Debug\net7.0\refs\System.Security.dll
+D:\%UNIVER\Реінжиніринг програмного забезпечення\WebApplication4\WebApplication4\bin\Debug\net7.0\refs\System.Security.Principal.dll
+D:\%UNIVER\Реінжиніринг програмного забезпечення\WebApplication4\WebApplication4\bin\Debug\net7.0\refs\System.Security.Principal.Windows.dll
+D:\%UNIVER\Реінжиніринг програмного забезпечення\WebApplication4\WebApplication4\bin\Debug\net7.0\refs\System.Security.SecureString.dll
+D:\%UNIVER\Реінжиніринг програмного забезпечення\WebApplication4\WebApplication4\bin\Debug\net7.0\refs\System.ServiceModel.Web.dll
+D:\%UNIVER\Реінжиніринг програмного забезпечення\WebApplication4\WebApplication4\bin\Debug\net7.0\refs\System.ServiceProcess.dll
+D:\%UNIVER\Реінжиніринг програмного забезпечення\WebApplication4\WebApplication4\bin\Debug\net7.0\refs\System.Text.Encoding.CodePages.dll
+D:\%UNIVER\Реінжиніринг програмного забезпечення\WebApplication4\WebApplication4\bin\Debug\net7.0\refs\System.Text.Encoding.dll
+D:\%UNIVER\Реінжиніринг програмного забезпечення\WebApplication4\WebApplication4\bin\Debug\net7.0\refs\System.Text.Encoding.Extensions.dll
+D:\%UNIVER\Реінжиніринг програмного забезпечення\WebApplication4\WebApplication4\bin\Debug\net7.0\refs\System.Text.Encodings.Web.dll
+D:\%UNIVER\Реінжиніринг програмного забезпечення\WebApplication4\WebApplication4\bin\Debug\net7.0\refs\System.Text.Json.dll
+D:\%UNIVER\Реінжиніринг програмного забезпечення\WebApplication4\WebApplication4\bin\Debug\net7.0\refs\System.Text.RegularExpressions.dll
+D:\%UNIVER\Реінжиніринг програмного забезпечення\WebApplication4\WebApplication4\bin\Debug\net7.0\refs\System.Threading.Channels.dll
+D:\%UNIVER\Реінжиніринг програмного забезпечення\WebApplication4\WebApplication4\bin\Debug\net7.0\refs\System.Threading.dll
+D:\%UNIVER\Реінжиніринг програмного забезпечення\WebApplication4\WebApplication4\bin\Debug\net7.0\refs\System.Threading.Overlapped.dll
+D:\%UNIVER\Реінжиніринг програмного забезпечення\WebApplication4\WebApplication4\bin\Debug\net7.0\refs\System.Threading.RateLimiting.dll
+D:\%UNIVER\Реінжиніринг програмного забезпечення\WebApplication4\WebApplication4\bin\Debug\net7.0\refs\System.Threading.Tasks.Dataflow.dll
+D:\%UNIVER\Реінжиніринг програмного забезпечення\WebApplication4\WebApplication4\bin\Debug\net7.0\refs\System.Threading.Tasks.dll
+D:\%UNIVER\Реінжиніринг програмного забезпечення\WebApplication4\WebApplication4\bin\Debug\net7.0\refs\System.Threading.Tasks.Extensions.dll
+D:\%UNIVER\Реінжиніринг програмного забезпечення\WebApplication4\WebApplication4\bin\Debug\net7.0\refs\System.Threading.Tasks.Parallel.dll
+D:\%UNIVER\Реінжиніринг програмного забезпечення\WebApplication4\WebApplication4\bin\Debug\net7.0\refs\System.Threading.Thread.dll
+D:\%UNIVER\Реінжиніринг програмного забезпечення\WebApplication4\WebApplication4\bin\Debug\net7.0\refs\System.Threading.ThreadPool.dll
+D:\%UNIVER\Реінжиніринг програмного забезпечення\WebApplication4\WebApplication4\bin\Debug\net7.0\refs\System.Threading.Timer.dll
+D:\%UNIVER\Реінжиніринг програмного забезпечення\WebApplication4\WebApplication4\bin\Debug\net7.0\refs\System.Transactions.dll
+D:\%UNIVER\Реінжиніринг програмного забезпечення\WebApplication4\WebApplication4\bin\Debug\net7.0\refs\System.Transactions.Local.dll
+D:\%UNIVER\Реінжиніринг програмного забезпечення\WebApplication4\WebApplication4\bin\Debug\net7.0\refs\System.ValueTuple.dll
+D:\%UNIVER\Реінжиніринг програмного забезпечення\WebApplication4\WebApplication4\bin\Debug\net7.0\refs\System.Web.dll
+D:\%UNIVER\Реінжиніринг програмного забезпечення\WebApplication4\WebApplication4\bin\Debug\net7.0\refs\System.Web.HttpUtility.dll
+D:\%UNIVER\Реінжиніринг програмного забезпечення\WebApplication4\WebApplication4\bin\Debug\net7.0\refs\System.Windows.dll
+D:\%UNIVER\Реінжиніринг програмного забезпечення\WebApplication4\WebApplication4\bin\Debug\net7.0\refs\System.Xml.dll
+D:\%UNIVER\Реінжиніринг програмного забезпечення\WebApplication4\WebApplication4\bin\Debug\net7.0\refs\System.Xml.Linq.dll
+D:\%UNIVER\Реінжиніринг програмного забезпечення\WebApplication4\WebApplication4\bin\Debug\net7.0\refs\System.Xml.ReaderWriter.dll
+D:\%UNIVER\Реінжиніринг програмного забезпечення\WebApplication4\WebApplication4\bin\Debug\net7.0\refs\System.Xml.Serialization.dll
+D:\%UNIVER\Реінжиніринг програмного забезпечення\WebApplication4\WebApplication4\bin\Debug\net7.0\refs\System.Xml.XDocument.dll
+D:\%UNIVER\Реінжиніринг програмного забезпечення\WebApplication4\WebApplication4\bin\Debug\net7.0\refs\System.Xml.XmlDocument.dll
+D:\%UNIVER\Реінжиніринг програмного забезпечення\WebApplication4\WebApplication4\bin\Debug\net7.0\refs\System.Xml.XmlSerializer.dll
+D:\%UNIVER\Реінжиніринг програмного забезпечення\WebApplication4\WebApplication4\bin\Debug\net7.0\refs\System.Xml.XPath.dll
+D:\%UNIVER\Реінжиніринг програмного забезпечення\WebApplication4\WebApplication4\bin\Debug\net7.0\refs\System.Xml.XPath.XDocument.dll
+D:\%UNIVER\Реінжиніринг програмного забезпечення\WebApplication4\WebApplication4\bin\Debug\net7.0\refs\WindowsBase.dll
+D:\%UNIVER\Реінжиніринг програмного забезпечення\WebApplication4\WebApplication4\bin\Debug\net7.0\ClosedXML.dll
+D:\%UNIVER\Реінжиніринг програмного забезпечення\WebApplication4\WebApplication4\bin\Debug\net7.0\DocumentFormat.OpenXml.dll
+D:\%UNIVER\Реінжиніринг програмного забезпечення\WebApplication4\WebApplication4\bin\Debug\net7.0\ExcelNumberFormat.dll
+D:\%UNIVER\Реінжиніринг програмного забезпечення\WebApplication4\WebApplication4\bin\Debug\net7.0\Irony.dll
+D:\%UNIVER\Реінжиніринг програмного забезпечення\WebApplication4\WebApplication4\bin\Debug\net7.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+D:\%UNIVER\Реінжиніринг програмного забезпечення\WebApplication4\WebApplication4\bin\Debug\net7.0\Microsoft.AspNetCore.Cryptography.Internal.dll
+D:\%UNIVER\Реінжиніринг програмного забезпечення\WebApplication4\WebApplication4\bin\Debug\net7.0\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+D:\%UNIVER\Реінжиніринг програмного забезпечення\WebApplication4\WebApplication4\bin\Debug\net7.0\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+D:\%UNIVER\Реінжиніринг програмного забезпечення\WebApplication4\WebApplication4\bin\Debug\net7.0\Microsoft.AspNetCore.JsonPatch.dll
+D:\%UNIVER\Реінжиніринг програмного забезпечення\WebApplication4\WebApplication4\bin\Debug\net7.0\Microsoft.AspNetCore.Mvc.Razor.Extensions.dll
+D:\%UNIVER\Реінжиніринг програмного забезпечення\WebApplication4\WebApplication4\bin\Debug\net7.0\Microsoft.AspNetCore.Mvc.Razor.RuntimeCompilation.dll
+D:\%UNIVER\Реінжиніринг програмного забезпечення\WebApplication4\WebApplication4\bin\Debug\net7.0\Microsoft.AspNetCore.Mvc.Versioning.dll
+D:\%UNIVER\Реінжиніринг програмного забезпечення\WebApplication4\WebApplication4\bin\Debug\net7.0\Microsoft.AspNetCore.Mvc.Versioning.ApiExplorer.dll
+D:\%UNIVER\Реінжиніринг програмного забезпечення\WebApplication4\WebApplication4\bin\Debug\net7.0\Microsoft.AspNetCore.Razor.Language.dll
+D:\%UNIVER\Реінжиніринг програмного забезпечення\WebApplication4\WebApplication4\bin\Debug\net7.0\Microsoft.CodeAnalysis.dll
+D:\%UNIVER\Реінжиніринг програмного забезпечення\WebApplication4\WebApplication4\bin\Debug\net7.0\Microsoft.CodeAnalysis.CSharp.dll
+D:\%UNIVER\Реінжиніринг програмного забезпечення\WebApplication4\WebApplication4\bin\Debug\net7.0\Microsoft.CodeAnalysis.Razor.dll
+D:\%UNIVER\Реінжиніринг програмного забезпечення\WebApplication4\WebApplication4\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.dll
+D:\%UNIVER\Реінжиніринг програмного забезпечення\WebApplication4\WebApplication4\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\%UNIVER\Реінжиніринг програмного забезпечення\WebApplication4\WebApplication4\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\%UNIVER\Реінжиніринг програмного забезпечення\WebApplication4\WebApplication4\bin\Debug\net7.0\Microsoft.Extensions.DependencyModel.dll
+D:\%UNIVER\Реінжиніринг програмного забезпечення\WebApplication4\WebApplication4\bin\Debug\net7.0\Microsoft.Extensions.Identity.Core.dll
+D:\%UNIVER\Реінжиніринг програмного забезпечення\WebApplication4\WebApplication4\bin\Debug\net7.0\Microsoft.Extensions.Identity.Stores.dll
+D:\%UNIVER\Реінжиніринг програмного забезпечення\WebApplication4\WebApplication4\bin\Debug\net7.0\Microsoft.Extensions.Options.dll
+D:\%UNIVER\Реінжиніринг програмного забезпечення\WebApplication4\WebApplication4\bin\Debug\net7.0\Microsoft.IdentityModel.Abstractions.dll
+D:\%UNIVER\Реінжиніринг програмного забезпечення\WebApplication4\WebApplication4\bin\Debug\net7.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\%UNIVER\Реінжиніринг програмного забезпечення\WebApplication4\WebApplication4\bin\Debug\net7.0\Microsoft.IdentityModel.Logging.dll
+D:\%UNIVER\Реінжиніринг програмного забезпечення\WebApplication4\WebApplication4\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.dll
+D:\%UNIVER\Реінжиніринг програмного забезпечення\WebApplication4\WebApplication4\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\%UNIVER\Реінжиніринг програмного забезпечення\WebApplication4\WebApplication4\bin\Debug\net7.0\Microsoft.IdentityModel.Tokens.dll
+D:\%UNIVER\Реінжиніринг програмного забезпечення\WebApplication4\WebApplication4\bin\Debug\net7.0\Microsoft.OpenApi.dll
+D:\%UNIVER\Реінжиніринг програмного забезпечення\WebApplication4\WebApplication4\bin\Debug\net7.0\Newtonsoft.Json.dll
+D:\%UNIVER\Реінжиніринг програмного забезпечення\WebApplication4\WebApplication4\bin\Debug\net7.0\Newtonsoft.Json.Bson.dll
+D:\%UNIVER\Реінжиніринг програмного забезпечення\WebApplication4\WebApplication4\bin\Debug\net7.0\SixLabors.Fonts.dll
+D:\%UNIVER\Реінжиніринг програмного забезпечення\WebApplication4\WebApplication4\bin\Debug\net7.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\%UNIVER\Реінжиніринг програмного забезпечення\WebApplication4\WebApplication4\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\%UNIVER\Реінжиніринг програмного забезпечення\WebApplication4\WebApplication4\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\%UNIVER\Реінжиніринг програмного забезпечення\WebApplication4\WebApplication4\bin\Debug\net7.0\System.IdentityModel.Tokens.Jwt.dll
+D:\%UNIVER\Реінжиніринг програмного забезпечення\WebApplication4\WebApplication4\bin\Debug\net7.0\System.IO.Packaging.dll
+D:\%UNIVER\Реінжиніринг програмного забезпечення\WebApplication4\WebApplication4\bin\Debug\net7.0\System.Security.Permissions.dll
+D:\%UNIVER\Реінжиніринг програмного забезпечення\WebApplication4\WebApplication4\bin\Debug\net7.0\XLParser.dll
+D:\%UNIVER\Реінжиніринг програмного забезпечення\WebApplication4\WebApplication4\bin\Debug\net7.0\cs\Microsoft.CodeAnalysis.resources.dll
+D:\%UNIVER\Реінжиніринг програмного забезпечення\WebApplication4\WebApplication4\bin\Debug\net7.0\de\Microsoft.CodeAnalysis.resources.dll
+D:\%UNIVER\Реінжиніринг програмного забезпечення\WebApplication4\WebApplication4\bin\Debug\net7.0\es\Microsoft.CodeAnalysis.resources.dll
+D:\%UNIVER\Реінжиніринг програмного забезпечення\WebApplication4\WebApplication4\bin\Debug\net7.0\fr\Microsoft.CodeAnalysis.resources.dll
+D:\%UNIVER\Реінжиніринг програмного забезпечення\WebApplication4\WebApplication4\bin\Debug\net7.0\it\Microsoft.CodeAnalysis.resources.dll
+D:\%UNIVER\Реінжиніринг програмного забезпечення\WebApplication4\WebApplication4\bin\Debug\net7.0\ja\Microsoft.CodeAnalysis.resources.dll
+D:\%UNIVER\Реінжиніринг програмного забезпечення\WebApplication4\WebApplication4\bin\Debug\net7.0\ko\Microsoft.CodeAnalysis.resources.dll
+D:\%UNIVER\Реінжиніринг програмного забезпечення\WebApplication4\WebApplication4\bin\Debug\net7.0\pl\Microsoft.CodeAnalysis.resources.dll
+D:\%UNIVER\Реінжиніринг програмного забезпечення\WebApplication4\WebApplication4\bin\Debug\net7.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+D:\%UNIVER\Реінжиніринг програмного забезпечення\WebApplication4\WebApplication4\bin\Debug\net7.0\ru\Microsoft.CodeAnalysis.resources.dll
+D:\%UNIVER\Реінжиніринг програмного забезпечення\WebApplication4\WebApplication4\bin\Debug\net7.0\tr\Microsoft.CodeAnalysis.resources.dll
+D:\%UNIVER\Реінжиніринг програмного забезпечення\WebApplication4\WebApplication4\bin\Debug\net7.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+D:\%UNIVER\Реінжиніринг програмного забезпечення\WebApplication4\WebApplication4\bin\Debug\net7.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+D:\%UNIVER\Реінжиніринг програмного забезпечення\WebApplication4\WebApplication4\bin\Debug\net7.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\%UNIVER\Реінжиніринг програмного забезпечення\WebApplication4\WebApplication4\bin\Debug\net7.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\%UNIVER\Реінжиніринг програмного забезпечення\WebApplication4\WebApplication4\bin\Debug\net7.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\%UNIVER\Реінжиніринг програмного забезпечення\WebApplication4\WebApplication4\bin\Debug\net7.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\%UNIVER\Реінжиніринг програмного забезпечення\WebApplication4\WebApplication4\bin\Debug\net7.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\%UNIVER\Реінжиніринг програмного забезпечення\WebApplication4\WebApplication4\bin\Debug\net7.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\%UNIVER\Реінжиніринг програмного забезпечення\WebApplication4\WebApplication4\bin\Debug\net7.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\%UNIVER\Реінжиніринг програмного забезпечення\WebApplication4\WebApplication4\bin\Debug\net7.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\%UNIVER\Реінжиніринг програмного забезпечення\WebApplication4\WebApplication4\bin\Debug\net7.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\%UNIVER\Реінжиніринг програмного забезпечення\WebApplication4\WebApplication4\bin\Debug\net7.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\%UNIVER\Реінжиніринг програмного забезпечення\WebApplication4\WebApplication4\bin\Debug\net7.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\%UNIVER\Реінжиніринг програмного забезпечення\WebApplication4\WebApplication4\bin\Debug\net7.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\%UNIVER\Реінжиніринг програмного забезпечення\WebApplication4\WebApplication4\bin\Debug\net7.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\%UNIVER\Реінжиніринг програмного забезпечення\WebApplication4\WebApplication4\obj\Debug\net7.0\WebApplication4.csproj.AssemblyReference.cache
+D:\%UNIVER\Реінжиніринг програмного забезпечення\WebApplication4\WebApplication4\obj\Debug\net7.0\WebApplication4.GeneratedMSBuildEditorConfig.editorconfig
+D:\%UNIVER\Реінжиніринг програмного забезпечення\WebApplication4\WebApplication4\obj\Debug\net7.0\WebApplication4.AssemblyInfoInputs.cache
+D:\%UNIVER\Реінжиніринг програмного забезпечення\WebApplication4\WebApplication4\obj\Debug\net7.0\WebApplication4.AssemblyInfo.cs
+D:\%UNIVER\Реінжиніринг програмного забезпечення\WebApplication4\WebApplication4\obj\Debug\net7.0\WebApplication4.csproj.CoreCompileInputs.cache
+D:\%UNIVER\Реінжиніринг програмного забезпечення\WebApplication4\WebApplication4\obj\Debug\net7.0\WebApplication4.MvcApplicationPartsAssemblyInfo.cs
+D:\%UNIVER\Реінжиніринг програмного забезпечення\WebApplication4\WebApplication4\obj\Debug\net7.0\WebApplication4.MvcApplicationPartsAssemblyInfo.cache
+D:\%UNIVER\Реінжиніринг програмного забезпечення\WebApplication4\WebApplication4\obj\Debug\net7.0\WebApplication4.RazorAssemblyInfo.cache
+D:\%UNIVER\Реінжиніринг програмного забезпечення\WebApplication4\WebApplication4\obj\Debug\net7.0\WebApplication4.RazorAssemblyInfo.cs
+D:\%UNIVER\Реінжиніринг програмного забезпечення\WebApplication4\WebApplication4\obj\Debug\net7.0\staticwebassets.build.json
+D:\%UNIVER\Реінжиніринг програмного забезпечення\WebApplication4\WebApplication4\obj\Debug\net7.0\staticwebassets.development.json
+D:\%UNIVER\Реінжиніринг програмного забезпечення\WebApplication4\WebApplication4\obj\Debug\net7.0\staticwebassets\msbuild.WebApplication4.Microsoft.AspNetCore.StaticWebAssets.props
+D:\%UNIVER\Реінжиніринг програмного забезпечення\WebApplication4\WebApplication4\obj\Debug\net7.0\staticwebassets\msbuild.build.WebApplication4.props
+D:\%UNIVER\Реінжиніринг програмного забезпечення\WebApplication4\WebApplication4\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.WebApplication4.props
+D:\%UNIVER\Реінжиніринг програмного забезпечення\WebApplication4\WebApplication4\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.WebApplication4.props
+D:\%UNIVER\Реінжиніринг програмного забезпечення\WebApplication4\WebApplication4\obj\Debug\net7.0\staticwebassets.pack.json
+D:\%UNIVER\Реінжиніринг програмного забезпечення\WebApplication4\WebApplication4\obj\Debug\net7.0\scopedcss\Pages\Shared\_Layout.cshtml.rz.scp.css
+D:\%UNIVER\Реінжиніринг програмного забезпечення\WebApplication4\WebApplication4\obj\Debug\net7.0\scopedcss\bundle\WebApplication4.styles.css
+D:\%UNIVER\Реінжиніринг програмного забезпечення\WebApplication4\WebApplication4\obj\Debug\net7.0\scopedcss\projectbundle\WebApplication4.bundle.scp.css
+D:\%UNIVER\Реінжиніринг програмного забезпечення\WebApplication4\WebApplication4\obj\Debug\net7.0\WebAppli.EC757EB8.Up2Date
+D:\%UNIVER\Реінжиніринг програмного забезпечення\WebApplication4\WebApplication4\obj\Debug\net7.0\WebApplication4.dll
+D:\%UNIVER\Реінжиніринг програмного забезпечення\WebApplication4\WebApplication4\obj\Debug\net7.0\refint\WebApplication4.dll
+D:\%UNIVER\Реінжиніринг програмного забезпечення\WebApplication4\WebApplication4\obj\Debug\net7.0\WebApplication4.xml
+D:\%UNIVER\Реінжиніринг програмного забезпечення\WebApplication4\WebApplication4\obj\Debug\net7.0\WebApplication4.pdb
+D:\%UNIVER\Реінжиніринг програмного забезпечення\WebApplication4\WebApplication4\obj\Debug\net7.0\WebApplication4.genruntimeconfig.cache
+D:\%UNIVER\Реінжиніринг програмного забезпечення\WebApplication4\WebApplication4\obj\Debug\net7.0\ref\WebApplication4.dll
